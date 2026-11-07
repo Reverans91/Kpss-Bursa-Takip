@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07T16:15:23.990202+00:00",
+  "updated_at": "2026-11-07T16:35:16.370517+00:00",
   "source": "Google News RSS",
-  "total_jobs": 326,
-  "new_jobs": 34,
+  "total_jobs": 293,
+  "new_jobs": 0,
   "errors": [],
   "official_sources": [
     {
@@ -71,27 +71,6 @@
   },
   "jobs": [
     {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZTF5UGJVcVdjVzU0eUJIbjBPb2RlOEJISVNsdndBaFlveDRsOFBHVEtiaDF3dWthOFZFRGhudFkzcjJBalNmZE1EcTRQRW5OVnJNcm1oLUJsU1paZUpabi1Yd3hBNEJqRUE?oc=5",
-      "date": "Wed, 30 Sep 2026 09:14:26 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373260+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "Cumhuriyetimizin 103. yılı kutlu olsun! - Bursa Uludağ Üniversitesi",
       "source": "Bursa Uludağ Üniversitesi",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBMEFyQjFyVm1DNldrclE1WGl4SWxQWDhJVFIzWE5EODhqLWRSbWU2Q1o1X1BPVnZFZDZaSGQ4bzl1Y0tfaURuZXFhTTNKNXl1V2k2aDF3UUZMdmF5NUhuS01OVEpFMnNncGlzcEtCY2ZZd1JuR2RuajJuT18xdw?oc=5",
@@ -132,48 +111,6 @@
       "summary": "29 Ekim Cumhuriyet Bayramımız Kutlu Olsun. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.796502+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUVNRTVFbHJMREtTa19RVU5ZWUJObGhMXzA5NWJJVkt4N20zZFFRX0w0SHE1MDlvYTZ0NlJ3VEhBeUw5cmZtQWNaNjdmWk9EYTVfS1EwMW5xakJUV3FrRTNJZVl6NlV4b2c?oc=5",
-      "date": "Wed, 23 Sep 2026 13:23:39 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372903+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JUjNjODhNMFlqZ3MzaDB3UnlrR3pLYzBGY2h4XzdmcWpvWUxhdTNjOE1SUVdORlJyMWloN3RCRkZyRFhweFN1cTdxTjNIbnVESGNHZEpYbS1nUTlYaFhkd1hTbm03NDdQcXc?oc=5",
-      "date": "Wed, 23 Sep 2026 10:22:34 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373644+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -511,69 +448,6 @@
       ]
     },
     {
-      "title": "Blog - Bursa Uludağ Üniversitesi Sürekli Eğitim Merkezi",
-      "source": "Bursa Uludağ Üniversitesi Sürekli Eğitim Merkezi",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hWFJDelllYWpfNjlpOTRxcWFhSHp6eTJoU1M2bDJjT3ZwOERFWlBDNTkycFZ6U25SdmM5SXA2NWFIbFNPTnVFWA?oc=5",
-      "date": "Wed, 11 Jan 2023 13:12:54 GMT",
-      "summary": "Blog &nbsp;&nbsp; Bursa Uludağ Üniversitesi Sürekli Eğitim Merkezi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796753+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "T.C. Bursa Valiliği - Bursa Valiliği",
-      "source": "Bursa Valiliği",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE0xLWt6UTVDdlBQQnY5V3NscGt6UmNRcW04Y3p0bGc5VVYwbHJOUnhjS2JhcklmMk1BWjBMeUxn?oc=5",
-      "date": "Wed, 09 Oct 2013 09:04:02 GMT",
-      "summary": "T.C. Bursa Valiliği &nbsp;&nbsp; Bursa Valiliği",
-      "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.481216+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Mezunlarimiz - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13b29ENnBmb1NnbnRFRzhlTHFheV9veHZXQWFuM0tSVXY5RE1hUVNLcEs3alNGWUdJelZNTVNuczVqOV82SUpZZllYQUtrZWZlLW5ZWVBrTl9hemtYVkE?oc=5",
-      "date": "Wed, 05 Feb 2025 09:22:59 GMT",
-      "summary": "Mezunlarimiz &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796045+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "Matlı Holding’den Dış Ticaret Programı Öğrencilerine CV Hazırlama ve Mülakat Teknikleri Semineri - Bursa Uludağ Üniversitesi",
       "source": "Bursa Uludağ Üniversitesi",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeHA4d1NfcDQ5NFY0SWswajBBVTFkQi10alFneEVMVXJUbVRGdTRtX3NOVFVjMll0dEZYVFdJTWtQNXczWlc4VkVkSFlFME0xbWNKVFhqQVZDQ2dCeGVrX2xKYWlKX1BrUlhvZFhEZmNKSEswQm5SQjlSRFJTV3JiQzlndWducklBQjFTSW81LWNBYU9oTE84cWF5cFdETUJJdHp0M1p1MVZ6eGpJMkRXWFFId2pKWUpYMkltRzZoZ1FCVEVwNGRXZkVLTi1uazRT?oc=5",
@@ -853,48 +727,6 @@
       ]
     },
     {
-      "title": "Bursa İş Ofisi - Bursa İş Ofisi",
-      "source": "Bursa İş Ofisi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ISjFVcUlhTmNOdS02U0l4MUVDSEpDb1NNYjNtZER3QmY5TVBnc1RPWGMyRnloVVNQTy1INktQblhJd210cmM1bVg4dVBXZnM0RjlXbktRSG82dVNRd1cxVy1oUU9PRnlJdFE?oc=5",
-      "date": "Tue, 29 Sep 2026 13:54:01 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; Bursa İş Ofisi",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373153+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9URHZBa2xNUDhJY2NIZXZLbmZwYlBObVVJSk55NF84dnRRZ3REeUVuRlk2T2c3U2o5aGN2VUp0bkZ1UU42ZDB0TVlhOGkyUlZNX3dLVXB2OUZ4YTUzeHdaNnhPTTRBNHpOaXc?oc=5",
-      "date": "Tue, 29 Sep 2026 09:06:04 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372878+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "Fiat Doblo 3 Yıl Sonra Geri Döndü! Tofaş’ta 5 Model - İşin Olsa",
       "source": "İşin Olsa",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenhMcExtdjZjMFNWQkFvbUQ2OTNiT0w3WjFYc0VZLVVzZlJ5akRnVDhGNDRucjZWVDlNU0stRzNQZjBxNG5EaE5kWVdobjJTZHNKR1ZSckRDa1hDVEp6ajlMd3U2UWZGc3cxMm5IUTNxVFFFX2RMaHpZcFBVVWlZTA?oc=5",
@@ -1024,90 +856,6 @@
       "summary": "BÜTÇE GİDERLERİNİN EKONOMİK SINIFLANDIRILMASI TABLOSU BÜTÇE GİDERLERİ TOPLAMI &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T15:44:19.158825+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5naThBejNsSmdTeDRUd2JXdF9vN1I2SzZDYTh4SlJzdHFURW9aRVl0WDB5VVpUY0FFbE4tcmVKamRWbVNuOW9qY1NEZ0NpT01kaTFtaUV0bFkzcHFrLVhDNGIySDQxTV9HZVE?oc=5",
-      "date": "Tue, 22 Sep 2026 19:10:34 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373178+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVTVpU3VERjNnMFZ5Q0ltSVk2bjlpY2JsQXNRZ0V4V2hBaFNDWDh3bjJkY0dDYjZ2Y0hNWFFFNFVNRlJQRDB0d0dEaUExRmRPS05FdHpwdWN1MkV5REpGV3ZDTlRBMlhLcVE?oc=5",
-      "date": "Tue, 22 Sep 2026 09:26:37 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373128+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Fizik Bölümü - Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "source": "Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9hSDJ4RFhGdUk2SER1ZGNIOGZabTZ3RXRTV1c3NTEwZE1IRDZoNVZGYjh0Y0J2NS1UdHIyb1JuRDZNYzQ?oc=5",
-      "date": "Tue, 22 Nov 2022 18:46:23 GMT",
-      "summary": "Fizik Bölümü &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.165897+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Şehir ve Bölge Planlama Bölümü - Bursa Teknik Üniversitesi | Mimarlık ve Tasarım Fakültesi",
-      "source": "Bursa Teknik Üniversitesi | Mimarlık ve Tasarım Fakültesi",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12OHp1czltNUExWVpvV3VIMDNqYTZCUEs5QnItYW9ueXI2ZWEyajhILThMNUJncmczSUtTajRsRHZBUQ?oc=5",
-      "date": "Tue, 22 Nov 2022 18:35:37 GMT",
-      "summary": "Şehir ve Bölge Planlama Bölümü &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mimarlık ve Tasarım Fakültesi",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.165818+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1494,48 +1242,6 @@
       ]
     },
     {
-      "title": "ŞEHİT POLİS SİNAN ACAR SONSUZLUĞA UĞURLANDI - Bursa Valiliği",
-      "source": "Bursa Valiliği",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5abGJiN1pFa2ZrMlV6QURPQS1kcGsydEp3OEM3anFrN2R5NGJQbGZ4Y3VydDJQTEtsSDUwb1dxU09EcmNMbUsyVmRLTlpFd1pRd2lrZ2d5WThXcC1Sa2xGNFMzTFM4WlotOFdrU2trVVNRVk5RcjRF?oc=5",
-      "date": "Tue, 10 Mar 2026 13:13:48 GMT",
-      "summary": "ŞEHİT POLİS SİNAN ACAR SONSUZLUĞA UĞURLANDI &nbsp;&nbsp; Bursa Valiliği",
-      "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.481385+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PdElZM19aQ1BNNnl0aTB6bUJJcER1NHVCVUl0eFNkaE9mUW1UWDlYVzlPdWZ1anM4alRHMTRQRzIxamJsdEZQNENqNG5FZ0E5MmtwbGhFa2ZVN09HXzY4a3JfSUxaUnl0dmNpeDlKWmc?oc=5",
-      "date": "Tue, 06 Oct 2026 08:11:55 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373029+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "- Bursa Teknik Üniversitesi",
       "source": "Bursa Teknik Üniversitesi",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeTdsNjQzdWg0eHlnVUx3cTMtdWlxQzJFWXhVQTFXcy1aVTVUNVVWVGhUT2I0eV9mODEyaFB3TlVtNlZMdFdaaXMwdF8yTnhaYUdVZ1JmcXpLZFhwbDZtMFBnWUhaTkdiRzcwamZIVHhxNnl2WHBBSnJkakh6UkdiVm90Q3hRdU9tX203ODV3T1hBWnZ0S25qa2hVVEg3aDN0QlFYVDltUnZsSHNKZHFJSjZlY01PREdqc0ZGT0J4dUFhYXBJRmVfQ3FlWDJYYno5U3pyOFlBX0dJRHhGTHFHQzFFampRb1E1RWd1VE9DOHFJanBvSVE?oc=5",
@@ -1829,48 +1535,6 @@
       ]
     },
     {
-      "title": "Tarihçemiz | MÜHENDİSLİK FAKÜLTESİ - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBocGhHVWhadGpjVXB6TmRaMml6WHpqZkJDZHExYUltYnl5T256Z01SZ1RHS1plUUd6OUVnRmF4RmFfcU4wRC05aU5ZdkM5SGZNdUg0R0VrZXc?oc=5",
-      "date": "Thu, 30 Jan 2025 13:22:37 GMT",
-      "summary": "Tarihçemiz | MÜHENDİSLİK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795847+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Fakülte Logomuz | MÜHENDİSLİK FAKÜLTESİ - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96S25kUkVrYTNualNlYUl2NlU4aVZKa2x5QUlUbHlxYWtTeThFTkNsZUVXTTdfdVVjVENyQ3UxdDlFYTJOYXFpVVEzRlB0NGs3cXM4ZWNYcFMzUQ?oc=5",
-      "date": "Thu, 30 Jan 2025 05:52:11 GMT",
-      "summary": "Fakülte Logomuz | MÜHENDİSLİK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796596+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "2026 KPSS Ön Lisans 80–89 Puanla Nereye Girilir? SGK, TDK ve TİGEM Yerleşme Puanları - İşin Olsa",
       "source": "İşin Olsa",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkJMTG5BamY5dTBmVWNMcjJneVVOd2h2SE9iT0ptckU1U1JwR0xUci1Zdld6N2lHeXBJcU8wVVFreDVkSjh3clp2RHdXNm1tSTROUlhBQko1cHFjZllXUnFpUG10Y1drQlp2THZsc0hCS1pXb3VPcW5QSGtibU1vMlZyUkMyUGpoeFV0bE1VLXowWlV0eUFvMzBBSXJZWGp5T1h2VnRoU2FRbHp6?oc=5",
@@ -1972,27 +1636,6 @@
       "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:23.165576+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHWG1QVFRfX3R4UVhFaXloMm9DelpMdDhRRXNDUFBLYUhraFhTS1lQSnZud0xseTVod0RJcjJjYlp3RUdXaXgyNEMzN2cydWtNNDZSMDBvalBjWlpZaGRaTUZRTE5jS2RWbWc?oc=5",
-      "date": "Thu, 24 Sep 2026 09:56:26 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373234+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2164,27 +1807,6 @@
       "summary": "T.C. Bursa Valiliği - &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
       "first_seen": "2026-11-07T16:15:23.481176+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Teşkilat Şeması - Bursa Valiliği",
-      "source": "Bursa Valiliği",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uZlM0ZVpxOFZMRDNfZE9YeXFBNGs0bGhRTXg5akRuOXQ3VTZJWEtlM1RockRBWUlmTjdfVkwwQ0Z3VTdlNkdRMlUxZF9OQ3pYb1E?oc=5",
-      "date": "Thu, 18 Dec 2025 10:53:21 GMT",
-      "summary": "Teşkilat Şeması &nbsp;&nbsp; Bursa Valiliği",
-      "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.481356+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2429,27 +2051,6 @@
       "summary": "Yarın okullar tatil mi son dakika? 16 Ekim Bursa, Yalova ve Sakarya'da okullar tatil olacak mı? &nbsp;&nbsp; Yeni Şafak",
       "search_query": "Bursa büro personeli alımı",
       "first_seen": "2026-11-07T16:15:16.584960+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "2026-2027 Güz Dönemi Online Yabancı Dil Kurslarımız Başlıyor - Bursa Teknik Üniversitesi | Yabancı Diller Yüksekokulu",
-      "source": "Bursa Teknik Üniversitesi | Yabancı Diller Yüksekokulu",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMXBkMlQ4WUNIeHRyMzVVd1pPSFJ1eGhjYWplUnkwQUJNWXFRQ1diZ1I5QTI2bWF0QzBzamhqblpNSU1jSzIyX1piTGFrTWRNY3NDeWtTZUhIZ1kyeWZIbFhaRVlPSGM2MVRyNk1hSmhIZ2hXXzBiZmZEb1VBUHdCRHhRRDhzdWd3djF3dUVNbUR1Rm84azQ2RllHSjM3TDZaNkhabUxpR2Y4SFJReVdGYjczUk94V0ZQRWcyd3p3UU53bWdOZDhpc01SbGhlNVVhY3lsejB2STA?oc=5",
-      "date": "Thu, 08 Oct 2026 16:32:07 GMT",
-      "summary": "2026-2027 Güz Dönemi Online Yabancı Dil Kurslarımız Başlıyor &nbsp;&nbsp; Bursa Teknik Üniversitesi | Yabancı Diller Yüksekokulu",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.165776+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3111,27 +2712,6 @@
       ]
     },
     {
-      "title": "HARMANCIK MYO - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00SWpuNXJmZ282TXhwa0hCMXZvNWdOYWVTV0lLZ01xR0tycmROaGctUW1xQ0RIcF81eDJNalFnOU9xQWluRTh3Q0ltbw?oc=5",
-      "date": "Sun, 11 Oct 2020 00:14:24 GMT",
-      "summary": "HARMANCIK MYO &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795784+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "İŞKUR Gençlik Programı Başvuruları Başladı. - Bursa Uludağ Üniversitesi",
       "source": "Bursa Uludağ Üniversitesi",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmx1YTRrVzdBalNGWTQ0Vl9JSHd3RFVBbE9JWTlsVzBHZ1VSMG5VdXR6UUZjN3NUV3BmZzdFaHhodlBBTTFuU19pVlpRYXhBSG15ZWFhaGVObkJyWU1CejZiMHJQVHZnazd3VnhNOXlEcWxkTUFvWXJqLWZOaEtjaWVnaDlQYmEy?oc=5",
@@ -3273,27 +2853,6 @@
       "match_status": "Şartları kontrol et",
       "warnings": [
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aLU5aYWVldDhMRF9GYTBMQmJJbkZzZHdGRDNMMTU3SnFQQmZGWGpROHpsTUh0eTFibnFLd3F2eDF0X1J0QXhMbWJZQ3RpVzQ3YmtySTRFYjFXVE1zb20tcnktYzBFbnNkdkE?oc=5",
-      "date": "Sat, 19 Sep 2026 16:04:58 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372774+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
       ]
     },
     {
@@ -3841,69 +3400,6 @@
       ]
     },
     {
-      "title": "Rehberlik ve Denetim Müdürlüğü - Bursa Valiliği",
-      "source": "Bursa Valiliği",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55azU0OXVIbVF3ZkN5aVRuNkZRc1JTQnp5b2s1V3JSYkRiclVJOG9DYzFnSGFwaHgzV08ybVNOcndtb2c4THZwcjJta2J6b0NBMUVYUFNCZVhreFFDempuWXJtZS1RUmU2RGdJU3ZR?oc=5",
-      "date": "Mon, 23 Mar 2026 03:04:49 GMT",
-      "summary": "Rehberlik ve Denetim Müdürlüğü &nbsp;&nbsp; Bursa Valiliği",
-      "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.481282+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - Bursa İş Ofisi",
-      "source": "Bursa İş Ofisi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcTJMdHMzajVkN2llX01QTWViVF83Y0pidUdJX0xDMXQ1WGxqbG01b1Q1WUg5VDFZR1lDT2Q1b1JVMWtfQzZXRTRvdHlEV0tTOUNaM2k3QnhpSmpzTm83d1BtbHVSRUlrZ2c?oc=5",
-      "date": "Mon, 21 Sep 2026 11:59:14 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; Bursa İş Ofisi",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372935+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWlBXbE1IQkFRSTVUdU9QR3ZsOHE2VFRyajVlemZManBzaXFyNU9vSGRpSlVndkExOXd4aGl2RGt3R1hXUzZ4TVFQc0FBa1NDd1ZTLUlBcWVXTmNpOXVLdTRJai0wZktVWEE?oc=5",
-      "date": "Mon, 21 Sep 2026 11:59:05 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373079+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44bUZyZXNwdzhtd09WMTZGdXRxSzZEaEMxOVE2WUZ2MVZKbnBmMVBIbHlLNE5kelNuNXZWQS1Wb0V1OFVxdXFJZzB1VGJYaHdla1ZMVTREaURpVG1PdGxxVFRZb3otMUQtUXZmejN6R0o?oc=5",
@@ -4218,48 +3714,6 @@
       "summary": "ALİ OSMAN SÖNMEZ DEVLET HASTANESİ DIŞ CEPHE TEMİZLİK HİZMETİ ALIMI &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
       "first_seen": "2026-11-07T16:15:23.745464+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vS2NLbnhIMzF3NmdQVVRNV0pHSmNrdzZWZHpzUjg2NDZKNm91bnpPeXRSNXAtekF0MVBfUEctWGlMc0VkbjFLTmxacG1WUW84SGpPUVNDTFJIM3JIUlFFQXliQmRrVDdWLUE?oc=5",
-      "date": "Mon, 05 Oct 2026 09:32:29 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372649+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MUWdRUmdHZ2xURzlhd3hRRzJVSC0tRXNmSmtIQ0prRFdwYTIzOVdzT1hRNUl4UVdLdFZUU3hubXBmUHhqd0llcXhuWkNZckVjRGgxQTU1WXQ1M3hRVVROa0RjVU9Td09iWlE?oc=5",
-      "date": "Mon, 05 Oct 2026 09:32:25 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373414+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4708,27 +4162,6 @@
       ]
     },
     {
-      "title": "İş Tanımı: - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WaHhGVFlQZERockZ5UkE1alh2OUhvYkZjNk1lX0hZLUlXOXZLcUo0b01TN1NNREYySFE0LWY0UlJSNmV1blhHYTZEUy1GdG1JaGVrSDFmdlBCMXpNazFJY3ZBS29HM05SMmc?oc=5",
-      "date": "Fri, 25 Sep 2026 16:01:06 GMT",
-      "summary": "İş Tanımı: &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373311+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "Mezun Anketleri Hakkında Duyuru - Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "source": "Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFM4SU5Za2FjYmIwOThwMENuOU56U0x4YmFfZzdSaFdxazdMdTdKdGs0SzB0cjRCMzNBQ2pXbk9NRGNOUnNNajg1cDlYU19VY2dkMnk1RGV4Zm5NSWo1XzNwWm41MW9hYlJyLVBUZWJLLThFc2RIV2tXc1NsMnhoaW50bXdBcS1xX09ra1RuWFd5UjQ?oc=5",
@@ -5023,90 +4456,6 @@
       ]
     },
     {
-      "title": "SANAYİ VE TEKNOLOJİ BAKANLIĞI BAŞMÜFETTİŞLERİNDEN, VALİ CANBOLAT’A ZİYARET - Bursa Valiliği",
-      "source": "Bursa Valiliği",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkZjbUs2YmlnNkNtclhjd29fclZ0UTgydktTRkwyVkd3bW5obW9tRGo1cTU3cEZkSHlQSnpXYmJjTjExel9KOTFjWG1vT0lrdmM0aXNDeWRxWUdRUlZ3RE1wMmQzdXlsZmwwMDRlODIzY1lKMzJzWEExdWU1a09sYWMteVhiRWxseXhjaHJmQl9taTB0Zk1hVDZ3XzBKUQ?oc=5",
-      "date": "Fri, 20 Mar 2026 19:08:20 GMT",
-      "summary": "SANAYİ VE TEKNOLOJİ BAKANLIĞI BAŞMÜFETTİŞLERİNDEN, VALİ CANBOLAT’A ZİYARET &nbsp;&nbsp; Bursa Valiliği",
-      "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.481419+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nWktaT3JZVHlCeGg3ZWgxT1htQVRDRXo0WmlBQVNvYlZaVEVERjE5WlVSZnIxeXBjWVFiN0FTQ0dYZTdlWFF6REEta0phN0dMSzVkdFV2cTFnUGlpcjVsUGRmSEtFS25pQUE?oc=5",
-      "date": "Fri, 18 Sep 2026 12:24:02 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373588+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9scmtneGYyTWdSaWtJZ3FLYnlEemFGeXJLMFJhLXp3b2dnTG54QkV6TldPaTM3RFR1TUxMU185Vkx4eFBydEVTWE1oVG1nTDRTemlTUU9YblJvN2NrR3RPc0RlTDdmQ1M0WGc?oc=5",
-      "date": "Fri, 18 Sep 2026 03:24:34 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372746+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Q2ZyaTB5aHlBVU40TFZieHRjdm8xX2hXTU1yWjBuWEhrMEZWQkVMUGZWdGNFTFJCRGNlQ0tudEhxSEh0VHAtQnFqWlMxekRBaGFIb3M5MmVCRTJpbkUxMXJ1Qy1QZUVWSFE?oc=5",
-      "date": "Fri, 18 Sep 2026 01:07:02 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373054+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "BURSA ULUDAĞ ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI SUNUCU ALIMI TEKNİK ŞARTNAMESİ 1. Amaç ve Kapsam 1.1. Ku - Bursa Uludağ Üniversitesi",
       "source": "Bursa Uludağ Üniversitesi",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRllxeTRuc2QwaklQZi13dmV3U2Y2bW5sR3QyTkltUVFPQjNvOGI1ZERYZzRHUE5CSUtab1VKTHA4cmVfTVFmYmdieVlqRHJ4SUtHdllZTWhCTVJGb2dYQ01vemlMS3dEUnlvc1JzSEN1SzdQclV3Q1lnTkpqNU9rbU9NVWs2YVBTTDhvTlM2Qy0xVHBWZlZRdXhzbFFxcC1xNUY3cS1pZktMemFhVjBmeWRHbzZ1RVBhMkl6N0lzYU90NFVMcWN4RDFfdzNHWDBkMWg2NWUzUjZRNG04TW9ZLUF3MkJkSmlkTUw0OQ?oc=5",
@@ -5345,27 +4694,6 @@
       "summary": "Mühendislik Fakültesinde 2026-2027 Akademik Yılı Sektör Temsilcilerinin Verdiği Açılış Dersleriyle Başladı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.796219+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kX1FnRzlKRUNhM3F1YVpleFVyVHpzY1pFa3o5NmhVM21penl3YkxSLTJQWE04cnNzc0x6bng3WGNldw?oc=5",
-      "date": "Fri, 11 Dec 2020 23:48:08 GMT",
-      "summary": "İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796664+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -6028,27 +5356,6 @@
         "Ön lisans şartı kontrol edilmeli",
         "67 puan şartı/alt sınırı kontrol edilmeli",
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HeVhrS0VMZGYyd0pwNjBFMjJtMUZpa2tTTDQ4ODlBLXlZSzJURmJyTHlhRkJNcUNsOWFWMXFleHNzc2NFc0wtVHFfMnFNM1lqQThGWEpleGVtNFlhaTl6eXg3TU5JQ1ltOXZyZ2h2bjk?oc=5",
-      "date": "Fri, 02 Oct 2026 08:14:42 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372598+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
       ]
     }
   ]
