@@ -97,35 +97,8 @@ RESMI_KAYNAKLAR = [
     }
 ]
 
-# Google News RSS aramaları
-ARAMALAR = [
-    "Bursa kamu personel alımı",
-    "Bursa memur alımı KPSS",
-    "Bursa büro personeli alımı",
-    "Bursa ön lisans personel alımı",
-    "Bursa belediye personel alımı",
-    "Bursa sözleşmeli personel alımı",
-    "Bursa kamu işçi alımı İŞKUR",
-    "Bursa bilgisayar işletmeni alımı",
-    "Bursa bilgisayar işletmenliği sertifikası personel alımı",
-    "Bursa veri hazırlama kontrol işletmeni",
-    "Bursa İşletme Yönetimi mezunu personel alımı",
-    "Bursa KPSS P93 alımı",
-    "Bursa kamu şoför alımı B ehliyet",
-    "Bursa Canva personel alımı",
-    "Bursa servis rehber personeli alımı",
-    "Bursa servis rehber personeli iş ilanı",
-    "Bursa servis rehber personeli kamu alımı",
-    "site:kariyerkapisi.gov.tr Bursa personel alımı",
-    "site:kamuilan.sbb.gov.tr Bursa personel alımı",
-    "site:resmigazete.gov.tr Bursa personel alımı",
-    "site:bursa.bel.tr personel alımı",
-    "site:uludag.edu.tr personel alımı",
-    "site:btu.edu.tr personel alımı",
-    "site:bursa.gov.tr personel alımı",
-    "site:bursaism.saglik.gov.tr personel alımı",
-    "site:bursa.meb.gov.tr personel alımı"
-]
+# Google News tamamen kaldırıldı
+ARAMALAR = []
 
 
 def eski_ilanlari_yukle():
