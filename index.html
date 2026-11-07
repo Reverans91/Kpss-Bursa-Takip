@@ -1,258 +1,393 @@
+
 <!DOCTYPE html>
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KPSS Bursa Takip</title>
+<title>KPSS Bursa İlan Takip</title>
 
 <style>
-*{box-sizing:border-box}
-body{
-  margin:0;
-  font-family:Arial,sans-serif;
-  background:#f1f5f9;
-  color:#172033;
+* {
+  box-sizing: border-box;
 }
-header{
-  background:#153b67;
-  color:white;
-  padding:24px 18px;
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f6fb;
+  color: #172033;
 }
-header h1{margin:0 0 8px;font-size:25px}
-header p{margin:0;color:#dbeafe}
-.container{max-width:800px;margin:auto;padding:16px}
-.profile,.filters,.job,.addbox{
-  background:white;
-  padding:18px;
-  border-radius:14px;
-  margin-bottom:16px;
-  box-shadow:0 2px 8px #0000000c;
+
+header {
+  background: linear-gradient(135deg, #173b73, #2878d0);
+  color: white;
+  padding: 25px 18px;
 }
-.profile h2,.addbox h2{margin-top:0}
-.tags{display:flex;flex-wrap:wrap;gap:8px}
-.tag{
-  background:#e0edff;
-  color:#174a82;
-  padding:7px 10px;
-  border-radius:20px;
-  font-size:13px;
+
+header h1 {
+  margin: 0 0 8px;
+  font-size: 25px;
 }
-input,select,textarea,button{
-  width:100%;
-  padding:12px;
-  margin:7px 0;
-  border:1px solid #ccd5e1;
-  border-radius:9px;
-  font-size:16px;
+
+header p {
+  margin: 0;
+  opacity: .9;
 }
-button{
-  background:#1769aa;
-  color:white;
-  border:0;
-  font-weight:bold;
-  cursor:pointer;
+
+.container {
+  padding: 16px;
+  max-width: 850px;
+  margin: auto;
 }
-button.delete{background:#dc3545}
-.job h3{margin:0 0 8px}
-.job p{line-height:1.5}
-.status{
-  display:inline-block;
-  padding:6px 10px;
-  border-radius:20px;
-  background:#fff3cd;
-  color:#785600;
-  font-size:13px;
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 18px;
 }
-.good{background:#dcfce7;color:#166534}
-.bad{background:#fee2e2;color:#991b1b}
-small{color:#64748b}
-footer{text-align:center;padding:20px;color:#64748b}
+
+.stat {
+  background: white;
+  border-radius: 14px;
+  padding: 16px;
+  box-shadow: 0 2px 8px #00000008;
+}
+
+.stat strong {
+  display: block;
+  font-size: 24px;
+  color: #2466bd;
+}
+
+.stat span {
+  font-size: 13px;
+  color: #687386;
+}
+
+.filters {
+  background: white;
+  padding: 16px;
+  border-radius: 14px;
+  margin-bottom: 18px;
+}
+
+input, select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d5dce7;
+  border-radius: 9px;
+  margin: 6px 0 12px;
+  font-size: 15px;
+  background: white;
+}
+
+button {
+  border: none;
+  background: #2466bd;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 9px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button.secondary {
+  background: #e8eef8;
+  color: #24518b;
+}
+
+.job {
+  background: white;
+  border-radius: 14px;
+  padding: 17px;
+  margin-bottom: 13px;
+  box-shadow: 0 2px 8px #00000008;
+  border-left: 5px solid #2878d0;
+}
+
+.job h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.job p {
+  color: #5e6878;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.tag {
+  display: inline-block;
+  background: #e8f1ff;
+  color: #245da7;
+  padding: 5px 9px;
+  border-radius: 6px;
+  font-size: 12px;
+  margin: 3px 3px 5px 0;
+}
+
+.tag.warning {
+  background: #fff2d7;
+  color: #8a5a00;
+}
+
+.job a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #2466bd;
+  font-weight: bold;
+}
+
+#status {
+  color: #5e6878;
+  font-size: 14px;
+  margin: 12px 0;
+}
+
+.sources {
+  background: white;
+  padding: 18px;
+  border-radius: 14px;
+  margin-top: 25px;
+}
+
+.sources a {
+  display: block;
+  margin: 10px 0;
+  color: #2466bd;
+}
+
+footer {
+  text-align: center;
+  padding: 25px;
+  font-size: 12px;
+  color: #7b8493;
+}
+
 </style>
 </head>
 
 <body>
 
 <header>
-  <h1>📢 KPSS Bursa Takip</h1>
-  <p>Bursa kamu personel alımı ilanlarını takip et</p>
+  <h1>📋 KPSS Bursa İlan Takip</h1>
+  <p>Bursa kamu ilanları • KPSS • Personel alımları</p>
 </header>
 
 <div class="container">
 
-<section class="profile">
-  <h2>👤 Aday Profilim</h2>
-  <div class="tags">
-    <span class="tag">Bursa</span>
-    <span class="tag">Ön lisans</span>
-    <span class="tag">İşletme Yönetimi</span>
-    <span class="tag">KPSS P93: 67</span>
-    <span class="tag">B sınıfı ehliyet</span>
-    <span class="tag">30–35 yaş</span>
-    <span class="tag">Canva / Grafik Tasarım</span>
+  <div class="stats">
+    <div class="stat">
+      <strong id="total">0</strong>
+      <span>Toplam ilan</span>
+    </div>
+
+    <div class="stat">
+      <strong id="visible">0</strong>
+      <span>Filtreye uygun sonuç</span>
+    </div>
   </div>
-  <p>İlanlar profilinle karşılaştırılır. Kesin uygunluk için ilanın şartları kontrol edilmelidir.</p>
-</section>
 
-<section class="filters">
-  <h2>🔎 İlan Ara</h2>
-  <input id="search" placeholder="Kurum, unvan veya şehir ara">
-  <select id="type">
-    <option value="">Tüm ilan türleri</option>
-    <option>Memur</option>
-    <option>İşçi</option>
-    <option>Sözleşmeli</option>
-    <option>Belediye</option>
-  </select>
-</section>
+  <div class="filters">
+    <h3>🔎 İlan ara</h3>
 
-<div id="jobs"></div>
+    <input id="search"
+      placeholder="İlan, kurum veya meslek ara...">
 
-<section class="addbox">
-  <h2>➕ Yeni İlan Ekle</h2>
-  <p>Resmî ilanı bulduğunda bilgilerini buraya ekleyebilirsin.</p>
+    <select id="type">
+      <option value="all">Tüm ilanlar</option>
+      <option value="official">Resmî kurum bağlantıları</option>
+      <option value="kpss">KPSS / memur ilanları</option>
+      <option value="education">Ön lisans / büro ilanları</option>
+    </select>
 
-  <input id="title" placeholder="İlan unvanı">
-  <input id="institution" placeholder="Kurum adı">
-  <input id="city" placeholder="Şehir (Bursa)">
-  <select id="jobtype">
-    <option>Memur</option>
-    <option>İşçi</option>
-    <option>Sözleşmeli</option>
-    <option>Belediye</option>
-  </select>
-  <input id="score" type="number" placeholder="İstenen KPSS puanı">
-  <input id="degree" placeholder="Mezuniyet şartı">
-  <input id="age" placeholder="Yaş şartı (yoksa boş bırak)">
-  <input id="license" placeholder="Ehliyet şartı (yoksa boş bırak)">
-  <input id="deadline" placeholder="Son başvuru tarihi">
-  <input id="url" placeholder="Resmî ilan bağlantısı">
-  <textarea id="notes" placeholder="Özel şartlar / sertifikalar"></textarea>
+    <button onclick="filterJobs()">Ara</button>
+    <button class="secondary" onclick="resetFilters()">Temizle</button>
 
-  <button onclick="addJob()">İlanı Kaydet</button>
-</section>
+    <div id="status">İlanlar yükleniyor...</div>
+  </div>
 
-<footer>
-  KPSS Bursa Takip • Kişisel ilan takip uygulaman
-</footer>
+  <div id="jobs"></div>
+
+  <div class="sources">
+    <h3>🏛️ Resmî kurumlar</h3>
+    <div id="official"></div>
+  </div>
 
 </div>
 
+<footer>
+  KPSS Bursa İlan Takip • İlan şartlarını kurumun resmî duyurusundan kontrol et.
+</footer>
+
 <script>
-let jobs = JSON.parse(localStorage.getItem("bursaJobs") || "[]");
+let allJobs = [];
+let officialSources = [];
 
-function save(){
-  localStorage.setItem("bursaJobs",JSON.stringify(jobs));
-  render();
+async function loadData() {
+  try {
+    const response = await fetch("ilanlar.json");
+
+    if (!response.ok) {
+      throw new Error("ilanlar.json yüklenemedi");
+    }
+
+    const data = await response.json();
+
+    allJobs = data.jobs || [];
+    officialSources = data.official_sources || [];
+
+    document.getElementById("total").textContent =
+      allJobs.length;
+
+    document.getElementById("status").textContent =
+      "Son güncelleme: " +
+      (data.updated_at || "Bilinmiyor");
+
+    showOfficial();
+    filterJobs();
+
+  } catch (error) {
+    document.getElementById("status").textContent =
+      "İlanlar yüklenemedi. GitHub dosyalarını kontrol et.";
+  }
 }
 
-function addJob(){
-  const title=document.getElementById("title").value.trim();
-  const institution=document.getElementById("institution").value.trim();
+function filterJobs() {
+  const search = document.getElementById("search")
+    .value.toLowerCase().trim();
 
-  if(!title || !institution){
-    alert("İlan unvanı ve kurum adı gerekli.");
+  const type = document.getElementById("type").value;
+
+  let filtered = allJobs.filter(job => {
+    const title = (job.title || "").toLowerCase();
+    const source = (job.source || "").toLowerCase();
+    const summary = (job.summary || "").toLowerCase();
+
+    const text = title + " " + source + " " + summary;
+
+    const searchMatch = !search || text.includes(search);
+
+    let typeMatch = true;
+
+    if (type === "official") {
+      typeMatch = false;
+    }
+
+    if (type === "kpss") {
+      typeMatch = /kpss|memur|personel|kamu/i.test(text);
+    }
+
+    if (type === "education") {
+      typeMatch = /ön lisans|önlisans|büro|işletme|personel/i.test(text);
+    }
+
+    return searchMatch && typeMatch;
+  });
+
+  document.getElementById("visible").textContent =
+    filtered.length;
+
+  if (type === "official") {
+    document.getElementById("jobs").innerHTML =
+      "<p>Resmî kurum bağlantıları aşağıda listeleniyor.</p>";
     return;
   }
 
-  jobs.unshift({
-    id:Date.now(),
-    title,
-    institution,
-    city:document.getElementById("city").value || "Bursa",
-    type:document.getElementById("jobtype").value,
-    score:document.getElementById("score").value,
-    degree:document.getElementById("degree").value,
-    age:document.getElementById("age").value,
-    license:document.getElementById("license").value,
-    deadline:document.getElementById("deadline").value,
-    url:document.getElementById("url").value,
-    notes:document.getElementById("notes").value
-  });
-
-  save();
-
-  ["title","institution","city","score","degree","age",
-   "license","deadline","url","notes"].forEach(id=>{
-    document.getElementById(id).value="";
-  });
-
-  alert("İlan kaydedildi.");
+  renderJobs(filtered);
 }
 
-function render(){
-  const search=document.getElementById("search").value.toLowerCase();
-  const type=document.getElementById("type").value;
+function renderJobs(jobs) {
+  const container = document.getElementById("jobs");
 
-  const filtered=jobs.filter(j=>{
-    const text=(j.title+" "+j.institution+" "+j.city).toLowerCase();
-    return text.includes(search) && (!type || j.type===type);
-  });
-
-  const container=document.getElementById("jobs");
-
-  if(filtered.length===0){
-    container.innerHTML=`
-      <section class="job">
-        <h3>📭 Henüz ilan eklenmedi</h3>
-        <p>İlanları aşağıdaki formdan ekleyebilirsin.</p>
-        <small>Bu sürüm henüz otomatik ilan taraması yapmıyor.</small>
-      </section>`;
+  if (!jobs.length) {
+    container.innerHTML =
+      "<p>Aramana uygun ilan bulunamadı.</p>";
     return;
   }
 
-  container.innerHTML=filtered.map(j=>{
-    let scoreText=j.score
-      ? (Number(j.score)<=67
-        ? "Puan şartı 67 puanla karşılanabilir görünüyor"
-        : "KPSS puan şartı puanından yüksek")
-      : "KPSS puan şartı kontrol edilmeli";
+  container.innerHTML = jobs.map(job => {
+    const title = escapeHTML(job.title || "Başlıksız ilan");
+    const source = escapeHTML(job.source || "Kaynak belirtilmemiş");
+    const date = escapeHTML(job.date || "Tarih belirtilmemiş");
+    const status = escapeHTML(job.match_status || "İncelenecek");
+    const warnings = job.warnings || [];
 
-    let scoreClass=j.score && Number(j.score)>67 ? "bad":"good";
+    const warningHTML = warnings.map(w =>
+      `<span class="tag warning">${escapeHTML(w)}</span>`
+    ).join("");
+
+    const url = safeURL(job.url);
 
     return `
-    <section class="job">
-      <h3>${escapeHTML(j.title)}</h3>
-      <p><b>${escapeHTML(j.institution)}</b></p>
-      <span class="status">${escapeHTML(j.city)}</span>
-      <span class="status">${escapeHTML(j.type)}</span>
-      <p><b>KPSS:</b> ${escapeHTML(j.score || "Belirtilmemiş")}</p>
-      <p><b>Mezuniyet:</b> ${escapeHTML(j.degree || "Kontrol edilmeli")}</p>
-      <p><b>Yaş:</b> ${escapeHTML(j.age || "Kontrol edilmeli")}</p>
-      <p><b>Ehliyet:</b> ${escapeHTML(j.license || "Kontrol edilmeli")}</p>
-      <p><b>Son başvuru:</b> ${escapeHTML(j.deadline || "Belirtilmemiş")}</p>
-      <p class="status ${scoreClass}">${scoreText}</p>
-      <p>${escapeHTML(j.notes || "")}</p>
-      ${j.url ? `<p><a href="${safeURL(j.url)}" target="_blank" rel="noopener">Resmî ilanı aç</a></p>`:""}
-      <button class="delete" onclick="deleteJob(${j.id})">İlanı Sil</button>
-    </section>`;
+      <div class="job">
+        <h3>${title}</h3>
+
+        <span class="tag">${source}</span>
+        <span class="tag">${status}</span>
+
+        <p>📅 ${date}</p>
+
+        ${warningHTML}
+
+        ${url ? `<a href="${url}" target="_blank" rel="noopener">İlanı / kaynağı aç ↗</a>` : ""}
+
+      </div>
+    `;
   }).join("");
 }
 
-function escapeHTML(value){
-  return String(value).replace(/[&<>"']/g,c=>({
-    "&":"&amp;","<":"&lt;",">":"&gt;",
-    '"':"&quot;","'":"&#39;"
-  })[c]);
+function showOfficial() {
+  const container = document.getElementById("official");
+
+  container.innerHTML = officialSources.map(source => {
+    const name = escapeHTML(source.title || source.name || "Kurum");
+    const url = safeURL(source.url);
+
+    return url
+      ? `<a href="${url}" target="_blank" rel="noopener">${name} ↗</a>`
+      : "";
+  }).join("");
 }
 
-function safeURL(value){
-  try{
-    const u=new URL(value);
-    return ["https:","http:"].includes(u.protocol)?u.href:"#";
-  }catch(e){return "#";}
+function resetFilters() {
+  document.getElementById("search").value = "";
+  document.getElementById("type").value = "all";
+  filterJobs();
 }
 
-function deleteJob(id){
-  if(confirm("Bu ilan silinsin mi?")){
-    jobs=jobs.filter(j=>j.id!==id);
-    save();
-  }
+function escapeHTML(value) {
+  return String(value).replace(/[&<>"']/g, char => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  }[char]));
 }
 
-document.getElementById("search").addEventListener("input",render);
-document.getElementById("type").addEventListener("change",render);
+function safeURL(value) {
+  try {
+    const url = new URL(value);
 
-render();
+    if (url.protocol === "https:" || url.protocol === "http:") {
+      return escapeHTML(url.href);
+    }
+  } catch (e) {}
+
+  return "";
+}
+
+document.getElementById("search")
+  .addEventListener("input", filterJobs);
+
+document.getElementById("type")
+  .addEventListener("change", filterJobs);
+
+loadData();
 </script>
 
 </body>
