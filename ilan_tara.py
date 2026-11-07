@@ -1,138 +1,228 @@
 
 import json
-import urllib.request
-import urllib.parse
-import xml.etree.ElementTree as ET
-from datetime import datetime
-from pathlib import Path
+import os
+import re
+import hashlib
+import requests
+import feedparser
+from datetime import datetime, timezone
+from urllib.parse import quote
 
-# KPSS Bursa Takip - ilan tarama sistemi
+DOSYA = "ilanlar.json"
 
-DOSYA = Path("ilanlar.json")
+# Resmî kurum ve başvuru kaynakları
+RESMI_KAYNAKLAR = [
+    {
+        "name": "Kariyer Kapısı",
+        "url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
+    },
+    {
+        "name": "ÖSYM",
+        "url": "https://www.osym.gov.tr/"
+    },
+    {
+        "name": "İŞKUR",
+        "url": "https://www.iskur.gov.tr/"
+    },
+    {
+        "name": "Resmî Gazete",
+        "url": "https://www.resmigazete.gov.tr/"
+    },
+    {
+        "name": "Bursa Büyükşehir Belediyesi",
+        "url": "https://www.bursa.bel.tr/"
+    },
+    {
+        "name": "Bursa Uludağ Üniversitesi",
+        "url": "https://www.uludag.edu.tr/"
+    },
+    {
+        "name": "Bursa Teknik Üniversitesi",
+        "url": "https://www.btu.edu.tr/"
+    },
+    {
+        "name": "Bursa İş Ofisi",
+        "url": "https://bursaisofisi.bursa.bel.tr/Home/ilanarama"
+    }
+]
 
-QUERIES = [
+# Bursa ve kamu personeli için arama terimleri
+ARAMALAR = [
     "Bursa kamu personel alımı",
-    "Bursa belediye personel alımı",
-    "Bursa KPSS memur alımı",
-    "Bursa sözleşmeli personel alımı",
-    "Bursa ön lisans kamu alımı",
-    "Bursa kamu işçi alımı",
+    "Bursa memur alımı KPSS",
     "Bursa büro personeli alımı",
+    "Bursa ön lisans personel alımı",
+    "Bursa belediye personel alımı",
+    "Bursa sözleşmeli personel alımı",
+    "Bursa kamu işçi alımı İŞKUR",
     "Bursa bilgisayar işletmeni alımı",
-    "Bursa zabıta memuru alımı",
-    "Bursa kamu personel ilanı"
+    "Bursa veri hazırlama kontrol işletmeni",
+    "Bursa İşletme Yönetimi mezunu personel alımı",
+    "Bursa KPSS P93 alımı",
+    "Bursa KPSS 67 puan personel alımı",
+    "Bursa kamu şoför alımı B ehliyet",
+    "Bursa grafik tasarım personel alımı",
+    "Bursa Halk Eğitim sertifika kamu alımı"
 ]
 
-# Google News üzerinden resmî kaynaklara yönelik aramalar
-OFFICIAL_QUERIES = [
-    "site:kariyerkapisi.gov.tr Bursa personel alımı",
-    "site:osym.gov.tr KPSS Bursa tercih",
-    "site:iskur.gov.tr Bursa kamu işçi alımı",
-    "site:resmigazete.gov.tr Bursa personel alımı",
-    "site:kamuilan.sbb.gov.tr Bursa personel alımı",
-    "site:bursa.bel.tr personel alımı",
-    "site:bursa.gov.tr personel alımı",
-    "site:uludag.edu.tr personel alımı Bursa"
+# Ön lisans mezunlarına yönelik kelimeler
+EGITIM_KELIMELERI = [
+    "ön lisans", "önlisans", "associate",
+    "büro personeli", "memur", "bilgisayar işletmeni",
+    "veri hazırlama", "kontrol işletmeni",
+    "destek personeli", "şoför", "işçi",
+    "personel alımı", "kamu işçisi"
 ]
 
-ALL_QUERIES = QUERIES + OFFICIAL_QUERIES
+# Bu ifadeler ilanı otomatik elemek için değil,
+# kullanıcıya dikkat uyarısı göstermek için kullanılır.
+UYARI_KELIMELERI = [
+    "lisans mezunu", "4 yıllık", "yüksek lisans",
+    "KPSS P3", "KPSSP3", "KPSS P1",
+    "KPSS P2", "KPSS P94", "lise mezunu",
+    "35 yaşını doldurmamış", "30 yaşını doldurmamış",
+    "sertifika zorunlu", "belge zorunlu"
+]
 
-def google_news_search(query):
-    url = (
-        "https://news.google.com/rss/search?q="
-        + urllib.parse.quote(query)
-        + "&hl=tr&gl=TR&ceid=TR:tr"
-    )
-
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": "Mozilla/5.0"}
-    )
-
-    with urllib.request.urlopen(request, timeout=30) as response:
-        root = ET.fromstring(response.read())
-
-    results = []
-
-    for item in root.findall(".//item"):
-        title = item.findtext("title", "").strip()
-        link = item.findtext("link", "").strip()
-        date = item.findtext("pubDate", "").strip()
-        source = item.findtext("source", "Google News")
-
-        if not title or not link:
-            continue
-
-        results.append({
-            "title": title,
-            "source": source,
-            "url": link,
-            "date": date,
-            "match_status": "İlan şartları kontrol edilmeli",
-            "search_query": query
-        })
-
-    return results
-
-
-def load_existing():
-    if not DOSYA.exists():
+def eski_ilanlari_yukle():
+    if not os.path.exists(DOSYA):
         return []
 
     try:
-        with open(DOSYA, "r", encoding="utf-8") as file:
-            data = json.load(file)
-
-        return data.get("jobs", [])
-
-    except (json.JSONDecodeError, OSError):
+        with open(DOSYA, "r", encoding="utf-8") as f:
+            veri = json.load(f)
+            return veri.get("jobs", [])
+    except Exception:
         return []
 
+def ilan_kimligi(ilan):
+    metin = (
+        ilan.get("title", "") +
+        ilan.get("url", "")
+    )
+    return hashlib.sha256(metin.encode("utf-8")).hexdigest()
+
+def uygunluk_kontrol(ilan):
+    metin = (
+        ilan.get("title", "") + " " +
+        ilan.get("summary", "")
+    ).lower()
+
+    uyarilar = []
+
+    if not any(k.lower() in metin for k in EGITIM_KELIMELERI):
+        uyarilar.append("Ön lisans şartı kontrol edilmeli")
+
+    if any(k.lower() in metin for k in UYARI_KELIMELERI):
+        uyarilar.append("KPSS, yaş, mezuniyet veya sertifika şartı kontrol edilmeli")
+
+    if "67" in metin:
+        uyarilar.append("67 puan şartı/alt sınırı kontrol edilmeli")
+
+    if "p93" not in metin and "p 93" not in metin:
+        uyarilar.append("KPSS P93 şartı ilanın metninde doğrulanmalı")
+
+    ilan["match_status"] = (
+        "Şartları kontrol et" if uyarilar
+        else "İncelenecek ilan"
+    )
+    ilan["warnings"] = uyarilar
+
+    return ilan
+
+def google_news_rss(aranan):
+    url = (
+        "https://news.google.com/rss/search?q="
+        + quote(aranan + " when:30d")
+        + "&hl=tr&gl=TR&ceid=TR:tr"
+    )
+
+    feed = feedparser.parse(url)
+    bulunan = []
+
+    for entry in feed.entries:
+        ilan = {
+            "title": entry.get("title", ""),
+            "source": entry.get("source", {}).get(
+                "title", "Google News RSS"
+            ),
+            "url": entry.get("link", ""),
+            "date": entry.get("published", ""),
+            "search_query": aranan,
+            "summary": entry.get("summary", "")
+        }
+
+        bulunan.append(uygunluk_kontrol(ilan))
+
+    return bulunan
+
+def resmi_kaynaklari_ekle():
+    return [
+        {
+            "title": kaynak["name"],
+            "source": "Resmî kurum bağlantısı",
+            "url": kaynak["url"],
+            "date": "",
+            "search_query": "Resmî kaynak",
+            "match_status": "Kurum ilanlarını kontrol et",
+            "warnings": []
+        }
+        for kaynak in RESMI_KAYNAKLAR
+    ]
 
 def main():
-    existing_jobs = load_existing()
+    ilanlar = eski_ilanlari_yukle()
+    kimlikler = {ilan_kimligi(i) for i in ilanlar}
 
-    # URL üzerinden tekrarları önle
-    jobs = {
-        job.get("url"): job
-        for job in existing_jobs
-        if job.get("url")
-    }
+    yeni_ilanlar = []
+    hatalar = []
 
-    errors = []
-
-    for query in ALL_QUERIES:
+    for arama in ARAMALAR:
         try:
-            results = google_news_search(query)
+            sonuçlar = google_news_rss(arama)
 
-            for job in results:
-                jobs[job["url"]] = job
+            for ilan in sonuçlar:
+                kimlik = ilan_kimligi(ilan)
 
-            print(f"Başarılı: {query} - {len(results)} ilan")
+                if kimlik not in kimlikler:
+                    kimlikler.add(kimlik)
+                    yeni_ilanlar.append(ilan)
 
-        except Exception as error:
-            message = f"{query}: {str(error)}"
-            errors.append(message)
-            print("Tarama hatası:", message)
+        except Exception as e:
+            hatalar.append({
+                "arama": arama,
+                "hata": str(e)
+            })
 
-    data = {
-        "updated_at": datetime.now().astimezone().isoformat(),
-        "source": "Google News RSS",
-        "total_jobs": len(jobs),
-        "errors": errors,
-        "jobs": list(jobs.values())
+    tum_ilanlar = yeni_ilanlar + ilanlar
+
+    veri = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "source": "Google News RSS + resmî kurum bağlantıları",
+        "total_jobs": len(tum_ilanlar),
+        "new_jobs": len(yeni_ilanlar),
+        "errors": hatalar,
+        "official_sources": resmi_kaynaklari_ekle(),
+        "profile": {
+            "city": "Bursa",
+            "education": "Ön lisans",
+            "department": "İşletme Yönetimi",
+            "kpss_type": "P93",
+            "kpss_score": 67,
+            "age_range": "30-35",
+            "driver_license": "B",
+            "certificates": ["Canva", "Grafik tasarım"]
+        },
+        "jobs": tum_ilanlar
     }
 
-    with open(DOSYA, "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=2)
+    with open(DOSYA, "w", encoding="utf-8") as f:
+        json.dump(veri, f, ensure_ascii=False, indent=2)
 
-    print("--------------------------------")
     print("Tarama tamamlandı.")
-    print("Toplam ilan:", len(jobs))
-    print("Tarama hatası:", len(errors))
-    print("Dosya:", DOSYA)
-    print("--------------------------------")
-
+    print("Yeni ilan:", len(yeni_ilanlar))
+    print("Toplam ilan:", len(tum_ilanlar))
+    print("Hata:", len(hatalar))
 
 if __name__ == "__main__":
     main()
