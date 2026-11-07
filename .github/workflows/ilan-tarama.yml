@@ -22,6 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Gerekli paketleri kur
+        run: pip install requests feedparser
+
       - name: İlanları tara
         run: python ilan_tara.py
 
@@ -30,5 +33,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ilanlar.json
-          git diff --cached --quiet || git commit -m "Otomatik ilan güncellemesi"
+          git diff --cached --quiet || git commit -m "İlanlar güncellendi"
           git push
