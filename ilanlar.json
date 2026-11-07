@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07T15:44:20.376037+00:00",
+  "updated_at": "2026-11-07T16:15:23.990202+00:00",
   "source": "Google News RSS",
-  "total_jobs": 325,
-  "new_jobs": 1,
+  "total_jobs": 326,
+  "new_jobs": 34,
   "errors": [],
   "official_sources": [
     {
@@ -77,7 +77,7 @@
       "date": "Wed, 30 Sep 2026 09:14:26 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837645+00:00",
+      "first_seen": "2026-11-07T16:15:22.373260+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -98,7 +98,7 @@
       "date": "Wed, 28 Oct 2026 11:16:20 GMT",
       "summary": "Cumhuriyetimizin 103. yılı kutlu olsun! &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159827+00:00",
+      "first_seen": "2026-11-07T16:15:22.796287+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -131,7 +131,7 @@
       "date": "Wed, 28 Oct 2026 06:52:59 GMT",
       "summary": "29 Ekim Cumhuriyet Bayramımız Kutlu Olsun. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160048+00:00",
+      "first_seen": "2026-11-07T16:15:22.796502+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -152,7 +152,7 @@
       "date": "Wed, 23 Sep 2026 13:23:39 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837254+00:00",
+      "first_seen": "2026-11-07T16:15:22.372903+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -173,7 +173,7 @@
       "date": "Wed, 23 Sep 2026 10:22:34 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837974+00:00",
+      "first_seen": "2026-11-07T16:15:22.373644+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -194,7 +194,7 @@
       "date": "Wed, 21 Oct 2026 09:05:50 GMT",
       "summary": "KYK Bursunda 8 Gruba Öncelik! Kredi Sonradan Bursa Dönüşebilir mi? &nbsp;&nbsp; İşin Olsa",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305390+00:00",
+      "first_seen": "2026-11-07T16:15:19.855315+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -215,7 +215,7 @@
       "date": "Wed, 21 Oct 2026 08:19:58 GMT",
       "summary": "Özel Bursa Şefkat Yaşlı Bakım ve Huzurevi Hizm. San.Tic.A.Ş. &nbsp;&nbsp; Bursa İş Ofisi",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837341+00:00",
+      "first_seen": "2026-11-07T16:15:22.372997+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -248,7 +248,7 @@
       "date": "Wed, 21 Oct 2026 07:00:00 GMT",
       "summary": "Mimari Restorasyon Programı Tanıtımı | İZNİK MYO &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158864+00:00",
+      "first_seen": "2026-11-07T16:15:22.795394+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -269,7 +269,7 @@
       "date": "Wed, 14 Oct 2026 14:12:34 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837462+00:00",
+      "first_seen": "2026-11-07T16:15:22.373104+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -290,7 +290,7 @@
       "date": "Wed, 14 Oct 2026 14:12:05 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837303+00:00",
+      "first_seen": "2026-11-07T16:15:22.372963+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -311,7 +311,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da KPSS'ye hazırlananlara ücretsiz sınav fırsatı! Tarih ve başvuru adresi açıklandı &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa memur alımı KPSS",
-      "first_seen": "2026-11-07T15:44:12.448082+00:00",
+      "first_seen": "2026-11-07T16:15:16.246766+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -332,7 +332,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "Bursa’da KPSS’ye girecekler dikkat - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
       "search_query": "Bursa memur alımı KPSS",
-      "first_seen": "2026-11-07T15:44:12.447986+00:00",
+      "first_seen": "2026-11-07T16:15:16.246663+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -353,7 +353,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "Bursa’da KPSS’ye girecek adaylara ücretsiz sınav fırsatı! &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa memur alımı KPSS",
-      "first_seen": "2026-11-07T15:44:12.448046+00:00",
+      "first_seen": "2026-11-07T16:15:16.246726+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -374,7 +374,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da KPSS adaylarına ücretsiz deneme sınavı! Tarih ve başvuru adresi belli oldu &nbsp;&nbsp; Genç Gazete",
       "search_query": "Bursa memur alımı KPSS",
-      "first_seen": "2026-11-07T15:44:12.448185+00:00",
+      "first_seen": "2026-11-07T16:15:16.246869+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -395,7 +395,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "BURULAŞ’tan iş ilanı iddialarına ilişkin açıklama! &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637075+00:00",
+      "first_seen": "2026-11-07T16:15:17.287720+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -454,7 +454,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "KESİNTİSİZ GÜÇ KAYNAKLARI PERİYODİK BAKIM HİZMETİ ALIMI &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158529+00:00",
+      "first_seen": "2026-11-07T16:15:22.795120+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -475,7 +475,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "Hukuk Fakültesi İdari Personel Listesi &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158735+00:00",
+      "first_seen": "2026-11-07T16:15:22.795299+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -496,7 +496,7 @@
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
       "summary": "İdari Personel &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158794+00:00",
+      "first_seen": "2026-11-07T16:15:22.795358+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -517,7 +517,7 @@
       "date": "Wed, 11 Jan 2023 13:12:54 GMT",
       "summary": "Blog &nbsp;&nbsp; Bursa Uludağ Üniversitesi Sürekli Eğitim Merkezi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160196+00:00",
+      "first_seen": "2026-11-07T16:15:22.796753+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -532,13 +532,13 @@
       ]
     },
     {
-      "title": "Bursa İş Ofisi - Bursa İş Ofisi",
-      "source": "Bursa İş Ofisi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISkdhSHR6YUxDYzRjRnYwNnM1WUJXa3JIQ1puQlBsUXhaMTZMWWhNQTRKcS02cm1JSFdBWmR6c1UwUWVPS2VjcUkwV29WQTIwN0JBeENNRUFGM3NOb1ZjeDR2dVFNLVZ3dVE?oc=5",
-      "date": "Wed, 07 Oct 2026 15:17:49 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; Bursa İş Ofisi",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837565+00:00",
+      "title": "T.C. Bursa Valiliği - Bursa Valiliği",
+      "source": "Bursa Valiliği",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE0xLWt6UTVDdlBQQnY5V3NscGt6UmNRcW04Y3p0bGc5VVYwbHJOUnhjS2JhcklmMk1BWjBMeUxn?oc=5",
+      "date": "Wed, 09 Oct 2013 09:04:02 GMT",
+      "summary": "T.C. Bursa Valiliği &nbsp;&nbsp; Bursa Valiliği",
+      "search_query": "site:bursa.gov.tr personel alımı",
+      "first_seen": "2026-11-07T16:15:23.481216+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -559,7 +559,7 @@
       "date": "Wed, 05 Feb 2025 09:22:59 GMT",
       "summary": "Mezunlarimiz &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159491+00:00",
+      "first_seen": "2026-11-07T16:15:22.796045+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -580,7 +580,7 @@
       "date": "Wed, 04 Nov 2026 23:17:19 GMT",
       "summary": "Matlı Holding’den Dış Ticaret Programı Öğrencilerine CV Hazırlama ve Mülakat Teknikleri Semineri &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159047+00:00",
+      "first_seen": "2026-11-07T16:15:22.795621+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -625,7 +625,7 @@
       "date": "Wed, 04 Nov 2026 15:06:13 GMT",
       "summary": "İŞKUR GENÇLİK PROGRAMI KAPSAMINDA HAK KAZANAN ADAYLARDAN İSTENEN BELGELER &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159352+00:00",
+      "first_seen": "2026-11-07T16:15:22.795884+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -646,7 +646,7 @@
       "date": "Wed, 04 Nov 2026 14:02:00 GMT",
       "summary": "2027 Ehliyet ve Pasaport Ücretleri Ne Kadar Olacak? &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305245+00:00",
+      "first_seen": "2026-11-07T16:15:19.855168+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -733,7 +733,7 @@
       "date": "Wed, 04 Nov 2026 09:43:10 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836922+00:00",
+      "first_seen": "2026-11-07T16:15:22.372522+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -754,7 +754,7 @@
       "date": "Wed, 04 Nov 2026 09:43:05 GMT",
       "summary": "Ehliyet harçları ne kadar olacak? 2027 ücretleri belli oldu - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305088+00:00",
+      "first_seen": "2026-11-07T16:15:19.855013+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -775,7 +775,7 @@
       "date": "Wed, 04 Nov 2026 09:42:38 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836971+00:00",
+      "first_seen": "2026-11-07T16:15:22.372570+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -796,7 +796,7 @@
       "date": "Wed, 04 Nov 2026 09:42:27 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836871+00:00",
+      "first_seen": "2026-11-07T16:15:22.372470+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -817,12 +817,13 @@
       "date": "Wed, 04 Nov 2026 08:00:00 GMT",
       "summary": "MESLEK YÜKSEKOKULLARI KOORDINATÖRLÜĞÜ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T14:50:27.874262+00:00",
+      "first_seen": "2026-11-07T16:15:22.796784+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
         "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
         "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
         "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
       ],
@@ -837,7 +838,7 @@
       "date": "Wed, 04 Nov 2026 03:57:58 GMT",
       "summary": "Öğretim Elemanımızın Projesi COP31’de Yer Alacak &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158979+00:00",
+      "first_seen": "2026-11-07T16:15:22.795511+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -858,7 +859,7 @@
       "date": "Tue, 29 Sep 2026 13:54:01 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; Bursa İş Ofisi",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837516+00:00",
+      "first_seen": "2026-11-07T16:15:22.373153+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -879,12 +880,13 @@
       "date": "Tue, 29 Sep 2026 09:06:04 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T14:50:27.438063+00:00",
+      "first_seen": "2026-11-07T16:15:22.372878+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
         "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
         "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
         "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
       ],
@@ -912,7 +914,7 @@
       "date": "Tue, 27 Oct 2026 15:50:00 GMT",
       "summary": "Yönetim Listeleri | HUKUK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159111+00:00",
+      "first_seen": "2026-11-07T16:15:22.795689+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -933,7 +935,7 @@
       "date": "Tue, 27 Oct 2026 14:18:50 GMT",
       "summary": "Önemli Duyuru (Staj Bürosu) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159082+00:00",
+      "first_seen": "2026-11-07T16:15:22.795659+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -954,7 +956,7 @@
       "date": "Tue, 27 Oct 2026 12:40:06 GMT",
       "summary": "99 Kalem Elektrik, Sıhhi Tesisat, Biyomedikal Sarf ve Demirbaş Malzeme Alımı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158623+00:00",
+      "first_seen": "2026-11-07T16:15:22.795158+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -975,7 +977,7 @@
       "date": "Tue, 27 Oct 2026 07:55:09 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837184+00:00",
+      "first_seen": "2026-11-07T16:15:22.372803+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1042,7 +1044,7 @@
       "date": "Tue, 22 Sep 2026 19:10:34 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837541+00:00",
+      "first_seen": "2026-11-07T16:15:22.373178+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1063,7 +1065,7 @@
       "date": "Tue, 22 Sep 2026 09:26:37 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837488+00:00",
+      "first_seen": "2026-11-07T16:15:22.373128+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1084,7 +1086,7 @@
       "date": "Tue, 22 Nov 2022 18:46:23 GMT",
       "summary": "Fizik Bölümü &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486006+00:00",
+      "first_seen": "2026-11-07T16:15:23.165897+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1105,7 +1107,7 @@
       "date": "Tue, 22 Nov 2022 18:35:37 GMT",
       "summary": "Şehir ve Bölge Planlama Bölümü &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mimarlık ve Tasarım Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485928+00:00",
+      "first_seen": "2026-11-07T16:15:23.165818+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1126,7 +1128,7 @@
       "date": "Tue, 20 Oct 2026 08:58:40 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837901+00:00",
+      "first_seen": "2026-11-07T16:15:22.373561+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1159,7 +1161,7 @@
       "date": "Tue, 20 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da 30 kadın için iş fırsatı! Deneyim şartı aranmıyor, üç ayda bir tam maaş ikramiye &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637194+00:00",
+      "first_seen": "2026-11-07T16:15:17.287830+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1180,7 +1182,7 @@
       "date": "Tue, 20 Oct 2026 07:00:00 GMT",
       "summary": "GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ SINAVI BAŞVURU KILAVUZU &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158898+00:00",
+      "first_seen": "2026-11-07T16:15:22.795429+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1201,7 +1203,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "KPSS ile devlet memuru olmak isteyenler dikkat! Kamu personel alım ilanları nereden takip edilir? &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa kamu işçi alımı İŞKUR",
-      "first_seen": "2026-11-07T15:44:14.358908+00:00",
+      "first_seen": "2026-11-07T16:15:18.014560+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1222,7 +1224,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Büyükşehir Belediyesi'nde Çalışmak İçin Ne Yapılır? Başvuru Şartları Neler? &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.636885+00:00",
+      "first_seen": "2026-11-07T16:15:17.287503+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1243,7 +1245,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Büyükşehir’de çalışmak isteyenler merak ediyor: Başvuru nasıl yapılır, KPSS gerekiyor mu? &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.636827+00:00",
+      "first_seen": "2026-11-07T16:15:17.287444+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1264,7 +1266,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "BURFAŞ'ta çalışmak için ne yapılır? İş başvurusu nasıl yapılır, şartlar neler? &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637371+00:00",
+      "first_seen": "2026-11-07T16:15:17.288011+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1285,7 +1287,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "93 Personel alımına 21 Bin 623 başvuru! Kadro başına 232 aday &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa sözleşmeli personel alımı",
-      "first_seen": "2026-11-07T15:44:13.978338+00:00",
+      "first_seen": "2026-11-07T16:15:17.668812+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1306,7 +1308,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "Bursa’da iş arayanların gözü BURULAŞ ilanlarında &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.636924+00:00",
+      "first_seen": "2026-11-07T16:15:17.287563+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1327,7 +1329,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "TOKİ Bursa işyeri kura sonuçları: TOKİ 50, 100, 150 ve 200 m² işyeri belirleme kura sonucu asil ve yedek isim listesi &nbsp;&nbsp; Yeni Şafak",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775133+00:00",
+      "first_seen": "2026-11-07T16:15:16.585285+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1348,7 +1350,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Adliyesi’nde çalışmak isteyenler dikkat: Hangi kadrolara başvuru yapılabilir? &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775360+00:00",
+      "first_seen": "2026-11-07T16:15:16.585240+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1369,7 +1371,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "BURULAŞ’ta çalışmak isteyenler merak ediyor: KPSS şart mı, başvuru nasıl yapılır? &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305168+00:00",
+      "first_seen": "2026-11-07T16:15:19.855091+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1390,7 +1392,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "BURULAŞ'ta çalışmak için ne yapılır? İş başvurusu nereden yapılır, şartlar neler? &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637303+00:00",
+      "first_seen": "2026-11-07T16:15:17.287942+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1435,7 +1437,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da Özel Güvenlik Görevlisi Olmak İçin Ne Yapılır? İşte Başvuru Şartları &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305282+00:00",
+      "first_seen": "2026-11-07T16:15:19.855204+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1456,7 +1458,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "BUÜ “En İyiler” listesindeki yükselişini sürdürüyor &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159521+00:00",
+      "first_seen": "2026-11-07T16:15:22.796016+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1477,7 +1479,7 @@
       "date": "Tue, 13 Oct 2026 07:00:00 GMT",
       "summary": "BURFAŞ’ta iş arayanlar için başvuru rehberi: Hangi görevler var, şartlar neler? &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa servis rehber personeli kamu alımı",
-      "first_seen": "2026-11-07T15:44:17.643358+00:00",
+      "first_seen": "2026-11-07T16:15:21.150368+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1498,7 +1500,7 @@
       "date": "Tue, 10 Mar 2026 13:13:48 GMT",
       "summary": "ŞEHİT POLİS SİNAN ACAR SONSUZLUĞA UĞURLANDI &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755720+00:00",
+      "first_seen": "2026-11-07T16:15:23.481385+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1519,7 +1521,7 @@
       "date": "Tue, 06 Oct 2026 08:11:55 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837371+00:00",
+      "first_seen": "2026-11-07T16:15:22.373029+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1540,7 +1542,7 @@
       "date": "Tue, 03 Nov 2026 21:11:33 GMT",
       "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485855+00:00",
+      "first_seen": "2026-11-07T16:15:23.165743+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1561,7 +1563,7 @@
       "date": "Tue, 03 Nov 2026 20:30:00 GMT",
       "summary": "Pasaport almak ve telefon getirmek daha pahalı olacak! İşte 2027'nin yeni ücretleri &nbsp;&nbsp; Bursavar",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305445+00:00",
+      "first_seen": "2026-11-07T16:15:19.855351+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1595,7 +1597,7 @@
       "date": "Tue, 03 Nov 2026 12:59:37 GMT",
       "summary": "BUÜ Teknik Bilimler MYO Gıda Teknolojisi Programından Sofra/Compass Group Türkiye ile 3+1 Eğitimi İş Birliği Görüşmesi | TEKNİK BİLİMLER MYO &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159277+00:00",
+      "first_seen": "2026-11-07T16:15:22.795930+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1616,7 +1618,7 @@
       "date": "Tue, 03 Nov 2026 12:51:32 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836482+00:00",
+      "first_seen": "2026-11-07T16:15:22.372071+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1637,7 +1639,7 @@
       "date": "Tue, 03 Nov 2026 12:51:05 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836897+00:00",
+      "first_seen": "2026-11-07T16:15:22.372496+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1658,7 +1660,7 @@
       "date": "Tue, 03 Nov 2026 12:32:04 GMT",
       "summary": "Müdürlüğümüze ait Kamu Konutları Kiraya Verilecektir. &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.997191+00:00",
+      "first_seen": "2026-11-07T16:15:23.745663+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1679,7 +1681,7 @@
       "date": "Tue, 03 Nov 2026 11:43:11 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836526+00:00",
+      "first_seen": "2026-11-07T16:15:22.372118+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1700,7 +1702,7 @@
       "date": "Tue, 03 Nov 2026 11:40:32 GMT",
       "summary": "Özel Öğrenci Statüsünde Bahar Yarıyılında Üniversitemize Gelmek İsteyen Öğrencilerin Son Başvuru Tarihi! &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159453+00:00",
+      "first_seen": "2026-11-07T16:15:22.795977+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1733,7 +1735,7 @@
       "date": "Tue, 03 Nov 2026 09:36:00 GMT",
       "summary": "MEB-Canva Tasarım Laboratuvarı Bursa'da açıldı &nbsp;&nbsp; Ereğli Önder Gazetesi",
       "search_query": "Bursa Canva personel alımı",
-      "first_seen": "2026-11-07T15:44:16.579955+00:00",
+      "first_seen": "2026-11-07T16:15:20.236107+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1767,7 +1769,7 @@
       "date": "Tue, 03 Nov 2026 08:00:00 GMT",
       "summary": "BTÜ Kimya Mühendisliği Bölümü Star Bursiyerlerini Arıyor &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486163+00:00",
+      "first_seen": "2026-11-07T16:15:23.166055+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1833,7 +1835,7 @@
       "date": "Thu, 30 Jan 2025 13:22:37 GMT",
       "summary": "Tarihçemiz | MÜHENDİSLİK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159318+00:00",
+      "first_seen": "2026-11-07T16:15:22.795847+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1854,7 +1856,7 @@
       "date": "Thu, 30 Jan 2025 05:52:11 GMT",
       "summary": "Fakülte Logomuz | MÜHENDİSLİK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160079+00:00",
+      "first_seen": "2026-11-07T16:15:22.796596+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1911,7 +1913,7 @@
       "date": "Thu, 29 Oct 2026 07:00:00 GMT",
       "summary": "KPSS Ön Lisans sonuçları açıklandı mı? 2026 sonuçları ne zaman açıklanacak? &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa ön lisans personel alımı",
-      "first_seen": "2026-11-07T15:44:13.153497+00:00",
+      "first_seen": "2026-11-07T16:15:16.937129+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "KPSS puan türü ilan metninden kontrol edilmeli",
@@ -1969,7 +1971,7 @@
       "date": "Thu, 29 Oct 2026 01:48:21 GMT",
       "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485692+00:00",
+      "first_seen": "2026-11-07T16:15:23.165576+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -1990,7 +1992,7 @@
       "date": "Thu, 24 Sep 2026 09:56:26 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837620+00:00",
+      "first_seen": "2026-11-07T16:15:22.373234+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2011,7 +2013,7 @@
       "date": "Thu, 22 Oct 2026 12:35:51 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837108+00:00",
+      "first_seen": "2026-11-07T16:15:22.372718+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2032,7 +2034,7 @@
       "date": "Thu, 22 Oct 2026 11:49:38 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837876+00:00",
+      "first_seen": "2026-11-07T16:15:22.373519+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2053,7 +2055,7 @@
       "date": "Thu, 22 Oct 2026 07:54:19 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837670+00:00",
+      "first_seen": "2026-11-07T16:15:22.373286+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2074,7 +2076,7 @@
       "date": "Thu, 22 Oct 2026 07:00:00 GMT",
       "summary": "2026-KPSS Ortaöğretim pazar günü yapılacak - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
       "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T15:44:12.088044+00:00",
+      "first_seen": "2026-11-07T16:15:15.866181+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2107,7 +2109,7 @@
       "date": "Thu, 22 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da iş arayanlar dikkat! İkramiye, bayram harçlığı, yıllık izin yardımı... &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637464+00:00",
+      "first_seen": "2026-11-07T16:15:17.288082+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2140,7 +2142,7 @@
       "date": "Thu, 22 Oct 2026 07:00:00 GMT",
       "summary": "Gümrük Müşavirliği Alanında Mesleki Kariyer Semineri Gerçekleştirildi &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159235+00:00",
+      "first_seen": "2026-11-07T16:15:22.795815+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2161,7 +2163,7 @@
       "date": "Thu, 22 Oct 2026 07:00:00 GMT",
       "summary": "T.C. Bursa Valiliği - &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755532+00:00",
+      "first_seen": "2026-11-07T16:15:23.481176+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2182,7 +2184,7 @@
       "date": "Thu, 18 Dec 2025 10:53:21 GMT",
       "summary": "Teşkilat Şeması &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755691+00:00",
+      "first_seen": "2026-11-07T16:15:23.481356+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2203,7 +2205,7 @@
       "date": "Thu, 15 Oct 2026 12:24:25 GMT",
       "summary": "BURSA İL SAĞLIK MÜDÜRLÜĞÜ &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.997119+00:00",
+      "first_seen": "2026-11-07T16:15:23.745588+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2224,7 +2226,7 @@
       "date": "Thu, 15 Oct 2026 12:05:17 GMT",
       "summary": "BİTUAM Sarf Malzeme Alımı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158590+00:00",
+      "first_seen": "2026-11-07T16:15:22.795193+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2258,12 +2260,13 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da yarın okullar tatil mi son dakika? 16 Ekim Cuma Bursa'da Valilik tatil açıklaması geldi mi? &nbsp;&nbsp; Yeni Şafak",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T14:50:23.080708+00:00",
+      "first_seen": "2026-11-07T16:15:16.585127+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
         "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
         "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
         "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
       ],
@@ -2278,7 +2281,7 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da kent genelinde seferberlik: 1134 personel ve 439 araçla önlem alındı &nbsp;&nbsp; Haber 7",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637675+00:00",
+      "first_seen": "2026-11-07T16:15:17.288294+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2299,7 +2302,7 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "Büyükşehir'de yağmur teyakkuzu: 1126 personel, 439 araç görev başında &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837075+00:00",
+      "first_seen": "2026-11-07T16:15:22.372681+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2320,7 +2323,7 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "BUÜ SÖZLEŞMELİ PERSONEL (4/B) KADRO İLANI (2026/1) - YEDEK ÇAĞRISI (4.GRUP) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158394+00:00",
+      "first_seen": "2026-11-07T16:15:22.794984+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2341,7 +2344,7 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "TÜBİTAK 2209-A PROJE BAŞVURULARI BAŞLADI! &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159011+00:00",
+      "first_seen": "2026-11-07T16:15:22.795579+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2362,7 +2365,7 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "7592 Sayılı Öğrenci Affından Yararlanacak Öğrencilerinin Dikkatine.. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159143+00:00",
+      "first_seen": "2026-11-07T16:15:22.795722+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2383,7 +2386,7 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "Yapay Zeka Okulu Başvuruları Açıldı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160139+00:00",
+      "first_seen": "2026-11-07T16:15:22.796693+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2404,7 +2407,28 @@
       "date": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "''AFAD Başkanlığımızın Koordinasyonunda Tüm Kurumlarımız Sahada'' &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755582+00:00",
+      "first_seen": "2026-11-07T16:15:23.481249+00:00",
+      "match_status": "Şartları kontrol et",
+      "warnings": [
+        "Ön lisans mezuniyet şartı kontrol edilmeli",
+        "KPSS puan türü ilan metninden kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
+        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
+        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
+      ],
+      "match_reasons": [
+        "Bursa ifadesi bulundu"
+      ]
+    },
+    {
+      "title": "Yarın okullar tatil mi son dakika? 16 Ekim Bursa, Yalova ve Sakarya'da okullar tatil olacak mı? - Yeni Şafak",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdFlPZFE4ZVlGRVBYd0hwQ3BIeGZwZkN2U012ZHJFMWFvaWRxa2dsYmdzVUdoMWctMmJOLXo3LUhIckhsNDBVU3M4ZzJpYmM0WEJndVg2Q1JCWE9PUGhoUGQ5b3F6b3lEUWR4SUVMbmRFU3FScnVpaElUNVk4Q3pwQTRlMlhZOVFEYllhY2oyX00wRXlDVXByOWppV1NCLTdFTEh2eGo4bE1LRlpKZnJCU3p2Q2N0ZEowM0tsekR0SkRnb2lvNWxwZTUzTFY0enpUYkFvaA?oc=5",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "summary": "Yarın okullar tatil mi son dakika? 16 Ekim Bursa, Yalova ve Sakarya'da okullar tatil olacak mı? &nbsp;&nbsp; Yeni Şafak",
+      "search_query": "Bursa büro personeli alımı",
+      "first_seen": "2026-11-07T16:15:16.584960+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2425,7 +2449,7 @@
       "date": "Thu, 08 Oct 2026 16:32:07 GMT",
       "summary": "2026-2027 Güz Dönemi Online Yabancı Dil Kurslarımız Başlıyor &nbsp;&nbsp; Bursa Teknik Üniversitesi | Yabancı Diller Yüksekokulu",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485887+00:00",
+      "first_seen": "2026-11-07T16:15:23.165776+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2446,7 +2470,7 @@
       "date": "Thu, 05 Nov 2026 22:34:37 GMT",
       "summary": "Bursa'da Proje Okulu Öğretmenine Emsal Karar: Mahkeme Yürütmeyi Durdurdu &nbsp;&nbsp; Ajans04",
       "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T15:44:12.088588+00:00",
+      "first_seen": "2026-11-07T16:15:15.866748+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2467,7 +2491,7 @@
       "date": "Thu, 05 Nov 2026 22:05:00 GMT",
       "summary": "SGK 100 personel alacak! Başvurular 9 Kasım'da başlıyor &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T15:44:12.088303+00:00",
+      "first_seen": "2026-11-07T16:15:15.866443+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2488,7 +2512,7 @@
       "date": "Thu, 05 Nov 2026 19:55:52 GMT",
       "summary": "TÜBİTAK 2209-A ve 2209-B Başvuruları Başladı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159736+00:00",
+      "first_seen": "2026-11-07T16:15:22.796257+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2509,7 +2533,7 @@
       "date": "Thu, 05 Nov 2026 15:03:57 GMT",
       "summary": "Boşanmada Çocuk Hakları Semineri Gerçekleştirildi &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159617+00:00",
+      "first_seen": "2026-11-07T16:15:22.796135+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2530,7 +2554,7 @@
       "date": "Thu, 05 Nov 2026 14:49:11 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836737+00:00",
+      "first_seen": "2026-11-07T16:15:22.372336+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2551,12 +2575,13 @@
       "date": "Thu, 05 Nov 2026 14:03:00 GMT",
       "summary": "Bursa Mudanya Belediyesi’nde vahim usulsüzlükler! Sayıştay tek tek tespit etti &nbsp;&nbsp; Nöbetçi Gazete",
       "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T14:50:22.321576+00:00",
+      "first_seen": "2026-11-07T16:15:15.866713+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
         "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
         "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
         "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
       ],
@@ -2584,7 +2609,7 @@
       "date": "Thu, 05 Nov 2026 13:49:00 GMT",
       "summary": "Bursa Orduevi 2027'de 6 personel alımı: ihale 26 Kasım'da &nbsp;&nbsp; Haber Gündemim",
       "search_query": "Bursa servis rehber personeli kamu alımı",
-      "first_seen": "2026-11-07T15:44:17.643477+00:00",
+      "first_seen": "2026-11-07T16:15:21.150458+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2605,7 +2630,7 @@
       "date": "Thu, 05 Nov 2026 13:32:16 GMT",
       "summary": "Milyonlarca sürücüyü ilgilendiriyor! Ehliyetlerde geri sayım başladı &nbsp;&nbsp; Bursa Hayat Gazetesi",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305503+00:00",
+      "first_seen": "2026-11-07T16:15:19.855403+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2626,7 +2651,7 @@
       "date": "Thu, 05 Nov 2026 13:21:00 GMT",
       "summary": "Bursa'da market sektöründe çalışmak isteyenlere mülakat fırsatı &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637338+00:00",
+      "first_seen": "2026-11-07T16:15:17.287977+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2647,7 +2672,7 @@
       "date": "Thu, 05 Nov 2026 12:32:00 GMT",
       "summary": "Büyükşehir'den gençlere destek: Ödemeler üç dönemde yapılacak &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa ön lisans personel alımı",
-      "first_seen": "2026-11-07T15:44:13.153738+00:00",
+      "first_seen": "2026-11-07T16:15:16.937315+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2668,7 +2693,7 @@
       "date": "Thu, 05 Nov 2026 12:08:58 GMT",
       "summary": "Büyükşehir’den gençlere destek: Her başlangıçta yanınızdayız &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "Bursa ön lisans personel alımı",
-      "first_seen": "2026-11-07T15:44:13.153673+00:00",
+      "first_seen": "2026-11-07T16:15:16.937280+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2689,7 +2714,7 @@
       "date": "Thu, 05 Nov 2026 12:07:00 GMT",
       "summary": "Bursa'da iş arayanlara fırsat! Özen Gross toplu mülakatla personel alacak &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637003+00:00",
+      "first_seen": "2026-11-07T16:15:17.287647+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2710,7 +2735,7 @@
       "date": "Thu, 05 Nov 2026 11:43:00 GMT",
       "summary": "Bursa Orduevi 2027 yılı için 6 personel alacak! &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637573+00:00",
+      "first_seen": "2026-11-07T16:15:17.288188+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2731,7 +2756,7 @@
       "date": "Thu, 05 Nov 2026 11:42:57 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; Bursa İş Ofisi",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836821+00:00",
+      "first_seen": "2026-11-07T16:15:22.372419+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2764,7 +2789,7 @@
       "date": "Thu, 05 Nov 2026 11:13:00 GMT",
       "summary": "Bursa Mudanya Belediyesi’nde vahim usulsüzlükler! Sayıştay tek tek tespit etti &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637639+00:00",
+      "first_seen": "2026-11-07T16:15:17.288253+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2797,7 +2822,7 @@
       "date": "Thu, 05 Nov 2026 10:48:34 GMT",
       "summary": "Bursa Yıldırım’dan Okullara Eğitim Desteği &nbsp;&nbsp; RayHaber",
       "search_query": "Bursa sözleşmeli personel alımı",
-      "first_seen": "2026-11-07T15:44:13.978753+00:00",
+      "first_seen": "2026-11-07T16:15:17.669189+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2831,7 +2856,7 @@
       "date": "Thu, 05 Nov 2026 08:41:18 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836846+00:00",
+      "first_seen": "2026-11-07T16:15:22.372444+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2852,7 +2877,7 @@
       "date": "Thu, 05 Nov 2026 08:41:15 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836582+00:00",
+      "first_seen": "2026-11-07T16:15:22.372176+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2873,7 +2898,7 @@
       "date": "Thu, 05 Nov 2026 08:31:43 GMT",
       "summary": "Bursa'da 2027 yılı personel alımı başladı! Orduevine 6 kişi alınacak &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637502+00:00",
+      "first_seen": "2026-11-07T16:15:17.288118+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2906,7 +2931,7 @@
       "date": "Thu, 05 Nov 2026 08:16:04 GMT",
       "summary": "Bursa'da 2027 yılı personel alımı başladı! Orduevine 6 kişi alınacak &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305207+00:00",
+      "first_seen": "2026-11-07T16:15:19.855131+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2927,7 +2952,7 @@
       "date": "Thu, 05 Nov 2026 08:01:23 GMT",
       "summary": "Türkiye Şeker Fabrikaları AŞ 42 personel alacak - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
       "search_query": "Bursa sözleşmeli personel alımı",
-      "first_seen": "2026-11-07T15:44:13.978501+00:00",
+      "first_seen": "2026-11-07T16:15:17.668939+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -2986,7 +3011,7 @@
       "date": "Sun, 25 Oct 2026 09:03:25 GMT",
       "summary": "Okul gezileri öncesi Bursa’dan uyarı... Acenta ve rehberi mutlaka kontrol edin &nbsp;&nbsp; Ajans04",
       "search_query": "Bursa servis rehber personeli iş ilanı",
-      "first_seen": "2026-11-07T15:44:17.331357+00:00",
+      "first_seen": "2026-11-07T16:15:20.850039+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3007,7 +3032,7 @@
       "date": "Sun, 25 Oct 2026 07:00:00 GMT",
       "summary": "KPSS Ortaöğretim başladı - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
       "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T15:44:12.087905+00:00",
+      "first_seen": "2026-11-07T16:15:15.866039+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3092,7 +3117,7 @@
       "date": "Sun, 11 Oct 2020 00:14:24 GMT",
       "summary": "HARMANCIK MYO &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159174+00:00",
+      "first_seen": "2026-11-07T16:15:22.795784+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3113,7 +3138,7 @@
       "date": "Sun, 01 Nov 2026 20:55:43 GMT",
       "summary": "İŞKUR Gençlik Programı Başvuruları Başladı. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159912+00:00",
+      "first_seen": "2026-11-07T16:15:22.796373+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3191,7 +3216,7 @@
       "date": "Sat, 31 Oct 2026 11:12:40 GMT",
       "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485789+00:00",
+      "first_seen": "2026-11-07T16:15:23.165677+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3212,7 +3237,7 @@
       "date": "Sat, 31 Oct 2026 07:02:00 GMT",
       "summary": "Belediye başkanının babası da gözaltındaydı! 39 kişi tutuklandı &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637710+00:00",
+      "first_seen": "2026-11-07T16:15:17.288329+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3257,7 +3282,7 @@
       "date": "Sat, 19 Sep 2026 16:04:58 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837158+00:00",
+      "first_seen": "2026-11-07T16:15:22.372774+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3278,7 +3303,7 @@
       "date": "Sat, 17 Oct 2026 07:00:00 GMT",
       "summary": "Erdoğan duyurdu: 38 bin hekim dışı personel alınacak &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637743+00:00",
+      "first_seen": "2026-11-07T16:15:17.288366+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3325,7 +3350,7 @@
       "date": "Sat, 17 Oct 2026 00:49:13 GMT",
       "summary": "Bilgisayarsız Kodlama ile Bursa'yı Keşfet! &nbsp;&nbsp; Bursa İl Milli Eğitim Müdürlüğü",
       "search_query": "site:bursa.meb.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:20.375881+00:00",
+      "first_seen": "2026-11-07T16:15:23.990046+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3358,7 +3383,7 @@
       "date": "Sat, 10 Oct 2026 07:00:00 GMT",
       "summary": "Bursa İl Rehberi ile şehrin imkanları bir arada &nbsp;&nbsp; Bursasporx.com",
       "search_query": "Bursa servis rehber personeli iş ilanı",
-      "first_seen": "2026-11-07T15:44:17.331259+00:00",
+      "first_seen": "2026-11-07T16:15:20.849941+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3379,7 +3404,7 @@
       "date": "Sat, 07 Nov 2026 15:20:00 GMT",
       "summary": "BTSO’da Sektör Temsilcileri ile Bursa’nın Geleceği Üzerine Görüşmeler Yapıldı &nbsp;&nbsp; Ajans04",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775744+00:00",
+      "first_seen": "2026-11-07T16:15:16.585675+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3437,7 +3462,7 @@
       "date": "Sat, 07 Nov 2026 10:03:00 GMT",
       "summary": "Bursa'da iş arayanlar için önemli buluşma! 208 kişi başvuru yaptı &nbsp;&nbsp; Bursavar",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775658+00:00",
+      "first_seen": "2026-11-07T16:15:16.585583+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3470,7 +3495,7 @@
       "date": "Sat, 07 Nov 2026 09:07:00 GMT",
       "summary": "Bursa'da iş arayanlar ve işverenler aynı noktada buluştu &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775289+00:00",
+      "first_seen": "2026-11-07T16:15:16.585166+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3491,7 +3516,7 @@
       "date": "Sat, 07 Nov 2026 08:52:31 GMT",
       "summary": "Bursa Nilüfer'de istihdam buluşması! 208 vatandaş iş için başvurdu &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775502+00:00",
+      "first_seen": "2026-11-07T16:15:16.585406+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3538,7 +3563,7 @@
       "date": "Sat, 07 Nov 2026 08:44:00 GMT",
       "summary": "Nilüfer Bursa'da Gerçekleşen İş Buluşmasında 208 Başvuru Yapıldı &nbsp;&nbsp; Mersin Haber",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775807+00:00",
+      "first_seen": "2026-11-07T16:15:16.585709+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3585,7 +3610,7 @@
       "date": "Sat, 07 Nov 2026 05:49:08 GMT",
       "summary": "Ehliyet almak isteyenlere kötü haber! Artık daha da zorlaşacak! &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305031+00:00",
+      "first_seen": "2026-11-07T16:15:19.854956+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3606,7 +3631,7 @@
       "date": "Mon, 26 Oct 2026 21:00:00 GMT",
       "summary": "BURSA ORDUEVİ PERSONEL TAŞIMA İŞİ HİZMET ALIMI &nbsp;&nbsp; Bursavar",
       "search_query": "Bursa servis rehber personeli kamu alımı",
-      "first_seen": "2026-11-07T15:44:17.643412+00:00",
+      "first_seen": "2026-11-07T16:15:21.150421+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3627,7 +3652,7 @@
       "date": "Mon, 26 Oct 2026 16:56:34 GMT",
       "summary": "Yangın Söndürme Tatbikatı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159883+00:00",
+      "first_seen": "2026-11-07T16:15:22.796344+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3648,7 +3673,7 @@
       "date": "Mon, 26 Oct 2026 15:59:20 GMT",
       "summary": "2026 YILI GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ YAZILI VE SÖZLÜ SINAV SONUCU BAŞARI LİSTELERİNİN İLANI &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837219+00:00",
+      "first_seen": "2026-11-07T16:15:22.372840+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3669,12 +3694,13 @@
       "date": "Mon, 26 Oct 2026 14:51:57 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T14:50:27.438569+00:00",
+      "first_seen": "2026-11-07T16:15:22.373389+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
         "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
         "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
         "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
       ],
@@ -3689,7 +3715,7 @@
       "date": "Mon, 26 Oct 2026 13:33:42 GMT",
       "summary": "ÜRETİM OPERATÖRÜ İŞ İLANI &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837592+00:00",
+      "first_seen": "2026-11-07T16:15:22.373206+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3710,7 +3736,7 @@
       "date": "Mon, 26 Oct 2026 13:22:43 GMT",
       "summary": "VİNİL AFİŞ VE PASPARTU ALIMI--- ACİL---(ORGAN BAĞIŞ HAFTASI) &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.997081+00:00",
+      "first_seen": "2026-11-07T16:15:23.745523+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3779,7 +3805,7 @@
       "date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "summary": "NARKOREHBER Gençlik Modülü &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159856+00:00",
+      "first_seen": "2026-11-07T16:15:22.796316+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3800,7 +3826,7 @@
       "date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "summary": "Kahvaltı Organizasyonu &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159977+00:00",
+      "first_seen": "2026-11-07T16:15:22.796433+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3821,7 +3847,7 @@
       "date": "Mon, 23 Mar 2026 03:04:49 GMT",
       "summary": "Rehberlik ve Denetim Müdürlüğü &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755617+00:00",
+      "first_seen": "2026-11-07T16:15:23.481282+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3842,7 +3868,7 @@
       "date": "Mon, 21 Sep 2026 11:59:14 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; Bursa İş Ofisi",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837279+00:00",
+      "first_seen": "2026-11-07T16:15:22.372935+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3863,7 +3889,7 @@
       "date": "Mon, 21 Sep 2026 11:59:05 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837420+00:00",
+      "first_seen": "2026-11-07T16:15:22.373079+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3884,7 +3910,7 @@
       "date": "Mon, 19 Oct 2026 11:27:04 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837020+00:00",
+      "first_seen": "2026-11-07T16:15:22.372624+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3966,7 +3992,7 @@
       "date": "Mon, 19 Oct 2026 07:00:00 GMT",
       "summary": "AKÜ ALIMI DUYURUSU &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158497+00:00",
+      "first_seen": "2026-11-07T16:15:22.795058+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -3987,7 +4013,7 @@
       "date": "Mon, 19 Oct 2026 07:00:00 GMT",
       "summary": "REKTÖR Öğrenci Toplulukları Buluşması &nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485761+00:00",
+      "first_seen": "2026-11-07T16:15:23.165649+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4008,7 +4034,7 @@
       "date": "Mon, 19 Oct 2026 07:00:00 GMT",
       "summary": "2026-2027 Güz Kesinleşmiş Ara Sınav Programı &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485968+00:00",
+      "first_seen": "2026-11-07T16:15:23.165858+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4029,7 +4055,7 @@
       "date": "Mon, 19 Oct 2026 07:00:00 GMT",
       "summary": "2026-2027 Güz Dönemi Kesinleşmiş Ara Sınav Programı &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486084+00:00",
+      "first_seen": "2026-11-07T16:15:23.165975+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4050,7 +4076,7 @@
       "date": "Mon, 19 Oct 2026 07:00:00 GMT",
       "summary": "2026 Yılı Kasım Dönemi İl içi Atama Kurası &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.997154+00:00",
+      "first_seen": "2026-11-07T16:15:23.745626+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4071,7 +4097,7 @@
       "date": "Mon, 12 Oct 2026 09:16:38 GMT",
       "summary": "Bursa’nın sağlıklı gıdaya erişim haritası çıkarılıyor &nbsp;&nbsp; Bursa Teknik Üniversitesi | Lisansüstü Eğitim Enstitüsü",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486043+00:00",
+      "first_seen": "2026-11-07T16:15:23.165934+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4128,7 +4154,7 @@
       "date": "Mon, 12 Oct 2026 07:00:00 GMT",
       "summary": "2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı ve 2209-B Üniversite Öğrencileri Sanayiye Yönelik Araştırma Projeleri Desteği Programı 2026 Yılı Çağrıları Açıldı | MÜHENDİSLİK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159569+00:00",
+      "first_seen": "2026-11-07T16:15:22.796088+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4149,7 +4175,7 @@
       "date": "Mon, 12 Oct 2026 07:00:00 GMT",
       "summary": "Kütüphane Kullanımı ve Elektronik Kaynaklar Eğitimi &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159796+00:00",
+      "first_seen": "2026-11-07T16:15:22.796628+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4170,7 +4196,7 @@
       "date": "Mon, 12 Oct 2026 07:00:00 GMT",
       "summary": "Staj | ÇEVRE MÜHENDİSLİĞİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160168+00:00",
+      "first_seen": "2026-11-07T16:15:22.796724+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4191,7 +4217,7 @@
       "date": "Mon, 12 Oct 2026 07:00:00 GMT",
       "summary": "ALİ OSMAN SÖNMEZ DEVLET HASTANESİ DIŞ CEPHE TEMİZLİK HİZMETİ ALIMI &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.997025+00:00",
+      "first_seen": "2026-11-07T16:15:23.745464+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4212,7 +4238,7 @@
       "date": "Mon, 05 Oct 2026 09:32:29 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837044+00:00",
+      "first_seen": "2026-11-07T16:15:22.372649+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4233,7 +4259,7 @@
       "date": "Mon, 05 Oct 2026 09:32:25 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837776+00:00",
+      "first_seen": "2026-11-07T16:15:22.373414+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4254,7 +4280,7 @@
       "date": "Mon, 02 Nov 2026 19:50:16 GMT",
       "summary": "ISO/IEC 27001:2022 Bilgi Güvenliği Yönetim Sistemi Denetim ve Belgelendirme Hizmeti Alımı İlanı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158697+00:00",
+      "first_seen": "2026-11-07T16:15:22.795262+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4275,7 +4301,7 @@
       "date": "Mon, 02 Nov 2026 18:19:14 GMT",
       "summary": "Bursa'ya MEB'den yeni laboratuvar - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
       "search_query": "Bursa Canva personel alımı",
-      "first_seen": "2026-11-07T15:44:16.579904+00:00",
+      "first_seen": "2026-11-07T16:15:20.236058+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4296,7 +4322,7 @@
       "date": "Mon, 02 Nov 2026 14:29:59 GMT",
       "summary": "MimED2026 Mimarlık Öğrencileri Proje Ödülleri &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159202+00:00",
+      "first_seen": "2026-11-07T16:15:22.795756+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4330,7 +4356,7 @@
       "date": "Mon, 02 Nov 2026 12:06:00 GMT",
       "summary": "Köfteci Yusuf’un personel ilanında dikkat çeken detaylar: İşte aranan kadrolar ve maaş &nbsp;&nbsp; Bursavar",
       "search_query": "Bursa servis rehber personeli kamu alımı",
-      "first_seen": "2026-11-07T15:44:17.643519+00:00",
+      "first_seen": "2026-11-07T16:15:21.150496+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4375,7 +4401,7 @@
       "date": "Mon, 02 Nov 2026 11:25:00 GMT",
       "summary": "Köfteci Yusuf'un iş ilanı sosyal medyada gündem yarattı! &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637604+00:00",
+      "first_seen": "2026-11-07T16:15:17.288219+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4435,7 +4461,7 @@
       "date": "Mon, 02 Nov 2026 08:00:00 GMT",
       "summary": "ÖGRENCI ISLERI BÜROSU | MÜHENDİSLİK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159947+00:00",
+      "first_seen": "2026-11-07T16:15:22.796404+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4456,7 +4482,7 @@
       "date": "Mon, 02 Nov 2026 08:00:00 GMT",
       "summary": "MEDEK (Süt ve Ürünleri) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159766+00:00",
+      "first_seen": "2026-11-07T16:15:22.796558+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4538,7 +4564,7 @@
       "date": "Fri, 30 Oct 2026 10:49:11 GMT",
       "summary": "BTÜ’lü Öğrenciler COP31’de Görev Alacak &nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485645+00:00",
+      "first_seen": "2026-11-07T16:15:23.165506+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4583,7 +4609,7 @@
       "date": "Fri, 30 Oct 2026 07:55:59 GMT",
       "summary": "İŞKUR Gençlik Programı Başvuruları Başladı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158339+00:00",
+      "first_seen": "2026-11-07T16:15:22.794930+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4688,7 +4714,7 @@
       "date": "Fri, 25 Sep 2026 16:01:06 GMT",
       "summary": "İş Tanımı: &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837696+00:00",
+      "first_seen": "2026-11-07T16:15:22.373311+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4709,7 +4735,7 @@
       "date": "Fri, 23 Oct 2026 18:17:01 GMT",
       "summary": "Mezun Anketleri Hakkında Duyuru &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486124+00:00",
+      "first_seen": "2026-11-07T16:15:23.166015+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4730,7 +4756,7 @@
       "date": "Fri, 23 Oct 2026 14:57:43 GMT",
       "summary": "Kent Tarihi, Tanıtım Ve Turizm Dairesi Başkanlığı &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.838031+00:00",
+      "first_seen": "2026-11-07T16:15:22.373704+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4751,7 +4777,7 @@
       "date": "Fri, 23 Oct 2026 14:55:56 GMT",
       "summary": "Yol Yapım Şube Müdürlüğü &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.838000+00:00",
+      "first_seen": "2026-11-07T16:15:22.373672+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4772,7 +4798,7 @@
       "date": "Fri, 23 Oct 2026 11:31:22 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837801+00:00",
+      "first_seen": "2026-11-07T16:15:22.373440+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4793,7 +4819,7 @@
       "date": "Fri, 23 Oct 2026 11:30:56 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837751+00:00",
+      "first_seen": "2026-11-07T16:15:22.373364+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4814,7 +4840,7 @@
       "date": "Fri, 23 Oct 2026 11:30:39 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837950+00:00",
+      "first_seen": "2026-11-07T16:15:22.373614+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4835,7 +4861,7 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT",
       "summary": "Bursa’da kamuya personel alımı! Bakanlığın kontenjanı belli oldu &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa sözleşmeli personel alımı",
-      "first_seen": "2026-11-07T15:44:13.977994+00:00",
+      "first_seen": "2026-11-07T16:15:17.668436+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4856,7 +4882,7 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT",
       "summary": "Kültür ve Turizm Bakanlığı 162 personel alacak! Bursa'ya ayrılan kontenjan belli oldu &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa sözleşmeli personel alımı",
-      "first_seen": "2026-11-07T15:44:13.978075+00:00",
+      "first_seen": "2026-11-07T16:15:17.668515+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4890,7 +4916,7 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Büyükşehir Belediyesi’nde yeni atama! Daire başkanı belli oldu &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637107+00:00",
+      "first_seen": "2026-11-07T16:15:17.287753+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4936,7 +4962,7 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT",
       "summary": "Kütüphaneci alımı: Bakanlık 162 sözleşmeli kadro, Bursa’ya kontenjan &nbsp;&nbsp; Haber Gündemim",
       "search_query": "Bursa sözleşmeli personel alımı",
-      "first_seen": "2026-11-07T15:44:13.978585+00:00",
+      "first_seen": "2026-11-07T16:15:17.669023+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -4982,7 +5008,7 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT",
       "summary": "BUÜ SÖZLEŞMELİ PERSONEL (4/B) KADRO İLANI (2026/1) - YEDEK ÇAĞRISI (5.GRUP) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158461+00:00",
+      "first_seen": "2026-11-07T16:15:22.795025+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5003,7 +5029,7 @@
       "date": "Fri, 20 Mar 2026 19:08:20 GMT",
       "summary": "SANAYİ VE TEKNOLOJİ BAKANLIĞI BAŞMÜFETTİŞLERİNDEN, VALİ CANBOLAT’A ZİYARET &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755767+00:00",
+      "first_seen": "2026-11-07T16:15:23.481419+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5024,7 +5050,7 @@
       "date": "Fri, 18 Sep 2026 12:24:02 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837925+00:00",
+      "first_seen": "2026-11-07T16:15:22.373588+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5045,7 +5071,7 @@
       "date": "Fri, 18 Sep 2026 03:24:34 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837133+00:00",
+      "first_seen": "2026-11-07T16:15:22.372746+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5066,7 +5092,7 @@
       "date": "Fri, 18 Sep 2026 01:07:02 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837396+00:00",
+      "first_seen": "2026-11-07T16:15:22.373054+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5087,7 +5113,7 @@
       "date": "Fri, 16 Oct 2026 21:29:16 GMT",
       "summary": "BURSA ULUDAĞ ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI SUNUCU ALIMI TEKNİK ŞARTNAMESİ 1. Amaç ve Kapsam 1.1. Ku &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158939+00:00",
+      "first_seen": "2026-11-07T16:15:22.795471+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5108,7 +5134,7 @@
       "date": "Fri, 16 Oct 2026 20:15:50 GMT",
       "summary": "Temizlik Malzemesi Alımı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158561+00:00",
+      "first_seen": "2026-11-07T16:15:22.795088+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5129,7 +5155,7 @@
       "date": "Fri, 16 Oct 2026 10:22:23 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837825+00:00",
+      "first_seen": "2026-11-07T16:15:22.373468+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5150,7 +5176,7 @@
       "date": "Fri, 16 Oct 2026 10:19:25 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837849+00:00",
+      "first_seen": "2026-11-07T16:15:22.373494+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5171,7 +5197,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Uludağ Üniversitesi akademik personel alımı yapacak: Son başvuru tarihi belli oldu &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa İşletme Yönetimi mezunu personel alımı",
-      "first_seen": "2026-11-07T15:44:15.678823+00:00",
+      "first_seen": "2026-11-07T16:15:19.187023+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5192,7 +5218,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Uludağ Üniversitesi 37 akademik personel alacak! Son başvuru tarihi belli oldu &nbsp;&nbsp; Bursa Hakimiyet",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637266+00:00",
+      "first_seen": "2026-11-07T16:15:17.287904+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5213,7 +5239,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Uludağ Üniversitesi 37 akademik personel alacak! Son tarih belli oldu &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T15:44:13.637407+00:00",
+      "first_seen": "2026-11-07T16:15:17.288047+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5234,7 +5260,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "Bursa Büyükşehir Belediyesi’nden üniversite öğrencilerine eğitim desteği &nbsp;&nbsp; Anka Haber",
       "search_query": "Bursa ön lisans personel alımı",
-      "first_seen": "2026-11-07T15:44:13.153632+00:00",
+      "first_seen": "2026-11-07T16:15:16.937241+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5255,7 +5281,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "Bursa'da okullar tatil mi? 16 Ekim 2026 bugün okul var mı, üniversiteler tatil edildi mi? &nbsp;&nbsp; GZT",
       "search_query": "Bursa ön lisans personel alımı",
-      "first_seen": "2026-11-07T15:44:13.153798+00:00",
+      "first_seen": "2026-11-07T16:15:16.937375+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5276,7 +5302,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "T.C &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836608+00:00",
+      "first_seen": "2026-11-07T16:15:22.372203+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5297,7 +5323,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "ÖĞRETİM ÜYESİ KADRO İLANI (16.10.2026) (2026/3) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158659+00:00",
+      "first_seen": "2026-11-07T16:15:22.795223+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5318,7 +5344,7 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "summary": "Mühendislik Fakültesinde 2026-2027 Akademik Yılı Sektör Temsilcilerinin Verdiği Açılış Dersleriyle Başladı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159699+00:00",
+      "first_seen": "2026-11-07T16:15:22.796219+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5339,7 +5365,7 @@
       "date": "Fri, 11 Dec 2020 23:48:08 GMT",
       "summary": "İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160110+00:00",
+      "first_seen": "2026-11-07T16:15:22.796664+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5360,7 +5386,7 @@
       "date": "Fri, 09 Oct 2026 14:25:11 GMT",
       "summary": "2026-2027 Eğitim-Öğretim Yılı Güz Dönemi Taslak Ara Sınav Programı &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486247+00:00",
+      "first_seen": "2026-11-07T16:15:23.166099+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5381,7 +5407,7 @@
       "date": "Fri, 09 Oct 2026 12:46:49 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.837726+00:00",
+      "first_seen": "2026-11-07T16:15:22.373338+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5402,7 +5428,7 @@
       "date": "Fri, 09 Oct 2026 11:44:06 GMT",
       "summary": "2026 Güz Dönemi Meslek Yüksekokulları Bologna Süreci I. Değerlendirme Toplantısı Gerçekleştirildi &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.160010+00:00",
+      "first_seen": "2026-11-07T16:15:22.796466+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5460,7 +5486,7 @@
       "date": "Fri, 09 Oct 2026 07:00:00 GMT",
       "summary": "Komisyonlar | İNŞAAT MÜHENDİSLİĞİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158766+00:00",
+      "first_seen": "2026-11-07T16:15:22.795330+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5481,7 +5507,7 @@
       "date": "Fri, 09 Oct 2026 07:00:00 GMT",
       "summary": "7592 SAYILI KANUN'UN 14. MADDESI KAPSAMINDA ÖĞRENIM AFFI BAŞVURUSUNDA BULUNAN ÖĞRENCILERIN DERS KAYIT IŞLEMLERI HK. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.159655+00:00",
+      "first_seen": "2026-11-07T16:15:22.796174+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5502,7 +5528,7 @@
       "date": "Fri, 09 Oct 2026 07:00:00 GMT",
       "summary": "Aday Memur Temel Eğitim Sınavı Sonuçları (2026/7) &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.997227+00:00",
+      "first_seen": "2026-11-07T16:15:23.745700+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5523,7 +5549,7 @@
       "date": "Fri, 06 Nov 2026 20:47:06 GMT",
       "summary": "2027'de ehliyet almak cep yakacak! Maliyet 50 bin liraya yaklaşıyor &nbsp;&nbsp; Bursa Hayat Gazetesi",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305337+00:00",
+      "first_seen": "2026-11-07T16:15:19.855260+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5544,7 +5570,7 @@
       "date": "Fri, 06 Nov 2026 19:18:00 GMT",
       "summary": "Bursa Uludağ Üniversitesi ve CW Enerji’den tarımda güneş enerjisi iş birliği &nbsp;&nbsp; Bursavar",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775692+00:00",
+      "first_seen": "2026-11-07T16:15:16.585621+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5565,7 +5591,7 @@
       "date": "Fri, 06 Nov 2026 16:31:20 GMT",
       "summary": "Bursa'da Öğrencilerden Tam Buğdaylı Ürünler Sergisi &nbsp;&nbsp; Ajans04",
       "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T15:44:12.088625+00:00",
+      "first_seen": "2026-11-07T16:15:15.866779+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5586,7 +5612,7 @@
       "date": "Fri, 06 Nov 2026 16:26:52 GMT",
       "summary": "GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ YAZILI SINAVLARINA KATILMAYA HAK KAZANAN ADAYLARIN DİKKATİNE &nbsp;&nbsp; Bursa Valiliği",
       "search_query": "site:bursa.gov.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.755655+00:00",
+      "first_seen": "2026-11-07T16:15:23.481320+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5628,7 +5654,7 @@
       "date": "Fri, 06 Nov 2026 15:55:16 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836767+00:00",
+      "first_seen": "2026-11-07T16:15:22.372367+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5670,7 +5696,28 @@
       "date": "Fri, 06 Nov 2026 13:47:02 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836793+00:00",
+      "first_seen": "2026-11-07T16:15:22.372393+00:00",
+      "match_status": "Şartları kontrol et",
+      "warnings": [
+        "Ön lisans mezuniyet şartı kontrol edilmeli",
+        "KPSS puan türü ilan metninden kontrol edilmeli",
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
+        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
+        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
+      ],
+      "match_reasons": [
+        "Bursa ifadesi bulundu"
+      ]
+    },
+    {
+      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
+      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETlB0RTNaWXNwcTNucDBRckota1BiaXExeHBNOTR2UDdTTzJCVEZFYmxzZE8tVnpMa3BJTXI4a05CMXBXakdEY1FGX3VhZk1GelBNcWxfbVplZzZSUHV6dURrODlpMF91enF4dHJqcTE?oc=5",
+      "date": "Fri, 06 Nov 2026 13:46:56 GMT",
+      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
+      "search_query": "site:bursa.bel.tr personel alımı",
+      "first_seen": "2026-11-07T16:15:22.372259+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5691,7 +5738,7 @@
       "date": "Fri, 06 Nov 2026 12:40:00 GMT",
       "summary": "Ehliyet alacaklara dikkat! Kurs fiyatları artıyor &nbsp;&nbsp; Bursa Saati Gazetesi",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T15:44:16.305128+00:00",
+      "first_seen": "2026-11-07T16:15:19.855052+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5712,7 +5759,7 @@
       "date": "Fri, 06 Nov 2026 12:13:51 GMT",
       "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485812+00:00",
+      "first_seen": "2026-11-07T16:15:23.165700+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5733,7 +5780,7 @@
       "date": "Fri, 06 Nov 2026 12:13:51 GMT",
       "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485833+00:00",
+      "first_seen": "2026-11-07T16:15:23.165722+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5754,7 +5801,7 @@
       "date": "Fri, 06 Nov 2026 11:16:11 GMT",
       "summary": "İlaç Üretimi Daha Çevreci ve Verimli Hale Getiriliyor &nbsp;&nbsp; Bursa Teknik Üniversitesi",
       "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.485726+00:00",
+      "first_seen": "2026-11-07T16:15:23.165612+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5775,7 +5822,7 @@
       "date": "Fri, 06 Nov 2026 09:33:15 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836712+00:00",
+      "first_seen": "2026-11-07T16:15:22.372310+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5796,7 +5843,7 @@
       "date": "Fri, 06 Nov 2026 09:33:13 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836635+00:00",
+      "first_seen": "2026-11-07T16:15:22.372231+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5837,7 +5884,7 @@
       "date": "Fri, 06 Nov 2026 09:32:52 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836555+00:00",
+      "first_seen": "2026-11-07T16:15:22.372149+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5858,7 +5905,7 @@
       "date": "Fri, 06 Nov 2026 09:07:39 GMT",
       "summary": "Bursa'da yükümlüler kolları sıvadı! İŞKUR binalarını yenilediler &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa kamu işçi alımı İŞKUR",
-      "first_seen": "2026-11-07T15:44:14.359003+00:00",
+      "first_seen": "2026-11-07T16:15:18.014669+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5879,7 +5926,7 @@
       "date": "Fri, 06 Nov 2026 08:52:00 GMT",
       "summary": "Odeabank Bursa Şubesi İçin Personel Alımı Yapacağını Duyurdu &nbsp;&nbsp; Bankacıyım",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775572+00:00",
+      "first_seen": "2026-11-07T16:15:16.585476+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5900,7 +5947,7 @@
       "date": "Fri, 06 Nov 2026 07:43:32 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836661+00:00",
+      "first_seen": "2026-11-07T16:15:22.372285+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5921,7 +5968,7 @@
       "date": "Fri, 06 Nov 2026 06:45:00 GMT",
       "summary": "Bursa'da dolgun maaşlı iş fırsatı! Almanca bilenler aranıyor, başvurular başladı &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:44:12.775538+00:00",
+      "first_seen": "2026-11-07T16:15:16.585442+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5942,7 +5989,7 @@
       "date": "Fri, 06 Nov 2026 06:25:00 GMT",
       "summary": "SGK’da memur olma fırsatı! Başvurular için tarih verildi &nbsp;&nbsp; bursa tv",
       "search_query": "Bursa memur alımı KPSS",
-      "first_seen": "2026-11-07T15:44:12.447855+00:00",
+      "first_seen": "2026-11-07T16:15:16.246495+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
@@ -5984,34 +6031,13 @@
       ]
     },
     {
-      "title": "Yapay Zeka ve Makine Öğrenmesi Bölümü - Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "source": "Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81eFNjRWxvNy1LRHhuVGZsYmZBVzV3cXVvNmJ4OUxuYW10VlJvM1BnTWQwRXNHWTY5MEtidWR0UklQWkNWd1A2Sg?oc=5",
-      "date": "Fri, 03 May 2024 10:39:27 GMT",
-      "summary": "Yapay Zeka ve Makine Öğrenmesi Bölümü &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.486204+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HeVhrS0VMZGYyd0pwNjBFMjJtMUZpa2tTTDQ4ODlBLXlZSzJURmJyTHlhRkJNcUNsOWFWMXFleHNzc2NFc0wtVHFfMnFNM1lqQThGWEpleGVtNFlhaTl6eXg3TU5JQ1ltOXZyZ2h2bjk?oc=5",
       "date": "Fri, 02 Oct 2026 08:14:42 GMT",
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
       "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:18.836996+00:00",
+      "first_seen": "2026-11-07T16:15:22.372598+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
