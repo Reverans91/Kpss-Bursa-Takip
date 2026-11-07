@@ -3,7 +3,8 @@ import hashlib
 import os
 import re
 import feedparser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from urllib.parse import quote
 
 DOSYA = "ilanlar.json"
