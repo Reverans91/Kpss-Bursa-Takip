@@ -1,4 +1,3 @@
-
 import json
 import hashlib
 import os
@@ -18,11 +17,19 @@ PROFILE = {
     "kpss_score": 67,
     "age_range": "30-35",
     "driver_license": "B",
-    "certificates": ["Canva", "Grafik Tasarım"]
+    "certificates": [
+        "Canva",
+        "Bilgisayar İşletmenliği"
+    ],
+    "job_types": [
+        "Kamu personeli",
+        "Belediye personeli",
+        "Üniversite personeli",
+        "Servis Rehber Personeli"
+    ]
 }
 
-# Kurumların ana sayfaları ve ilan bağlantıları
-# Bu liste doğrudan ilan taraması değildir.
+# Kurum bağlantıları
 RESMI_KAYNAKLAR = [
     {
         "name": "Kariyer Kapısı",
@@ -70,6 +77,7 @@ RESMI_KAYNAKLAR = [
     }
 ]
 
+# Google News RSS aramaları
 ARAMALAR = [
     "Bursa kamu personel alımı",
     "Bursa memur alımı KPSS",
@@ -79,11 +87,15 @@ ARAMALAR = [
     "Bursa sözleşmeli personel alımı",
     "Bursa kamu işçi alımı İŞKUR",
     "Bursa bilgisayar işletmeni alımı",
+    "Bursa bilgisayar işletmenliği sertifikası personel alımı",
     "Bursa veri hazırlama kontrol işletmeni",
     "Bursa İşletme Yönetimi mezunu personel alımı",
     "Bursa KPSS P93 alımı",
     "Bursa kamu şoför alımı B ehliyet",
-    "Bursa grafik tasarım personel alımı",
+    "Bursa Canva personel alımı",
+    "Bursa servis rehber personeli alımı",
+    "Bursa servis rehber personeli iş ilanı",
+    "Bursa servis rehber personeli kamu alımı",
     "site:kariyerkapisi.gov.tr Bursa personel alımı",
     "site:kamuilan.sbb.gov.tr Bursa personel alımı",
     "site:resmigazete.gov.tr Bursa personel alımı",
@@ -94,6 +106,7 @@ ARAMALAR = [
     "site:bursaism.saglik.gov.tr personel alımı",
     "site:bursa.meb.gov.tr personel alımı"
 ]
+
 
 def eski_ilanlari_yukle():
     if not os.path.exists(DOSYA):
@@ -124,10 +137,15 @@ def ilan_kimligi(ilan):
     url = ilan.get("url", "").strip()
 
     if url:
-        return hashlib.sha256(url.encode("utf-8")).hexdigest()
+        return hashlib.sha256(
+            url.encode("utf-8")
+        ).hexdigest()
 
     metin = ilan.get("title", "") + ilan.get("source", "")
-    return hashlib.sha256(metin.encode("utf-8")).hexdigest()
+
+    return hashlib.sha256(
+        metin.encode("utf-8")
+    ).hexdigest()
 
 
 def uygunluk_kontrol(ilan):
@@ -165,24 +183,15 @@ def uygunluk_kontrol(ilan):
             "KPSS puan türü ilan metninden kontrol edilmeli"
         )
 
-    # Puan kontrolü
-    if "67" in text:
-        warnings.append(
-            "67 puan şartı ve puan hesaplama yöntemi kontrol edilmeli"
-        )
-    else:
-        warnings.append(
-            "KPSS taban puanı kontrol edilmeli"
-        )
+    # KPSS puanı
+    warnings.append(
+        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli"
+    )
 
     # Yaş kontrolü
-    if any(word in text for word in [
-        "yaş şartı", "yaşından gün almamış",
-        "yaşını doldurmamış"
-    ]):
-        warnings.append(
-            "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli"
-        )
+    warnings.append(
+        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli"
+    )
 
     # Ehliyet
     if "b sınıfı" in text or "b ehliyet" in text:
@@ -199,6 +208,25 @@ def uygunluk_kontrol(ilan):
         warnings.append(
             "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
         )
+
+    # Servis rehber personeli
+    if any(word in text for word in [
+        "servis rehber personel",
+        "servis rehber",
+        "rehber personel"
+    ]):
+        positives.append(
+            "Servis Rehber Personeli ifadesi bulundu"
+        )
+
+    # Sertifikalar
+    if "bilgisayar işletmen" in text:
+        positives.append(
+            "Bilgisayar İşletmenliği ifadesi bulundu"
+        )
+
+    if "canva" in text:
+        positives.append("Canva ifadesi bulundu")
 
     ilan["match_status"] = "Şartları kontrol et"
     ilan["warnings"] = warnings
@@ -233,14 +261,16 @@ def google_news_rss(query):
             continue
 
         # Bursa ile ilgisi olmayan başlıkları ele
-        if "bursa" not in (title + " " + summary).lower():
+        if "bursa" not in (
+            title + " " + summary
+        ).lower():
             continue
 
         ilan = {
             "title": title,
-            "source": entry.get("source", {}).get(
-                "title", "Google News"
-            ),
+            "source": entry.get(
+                "source", {}
+            ).get("title", "Google News"),
             "url": link,
             "date": date,
             "summary": summary,
@@ -259,6 +289,7 @@ def main():
     eski_ilanlar = eski_ilanlari_yukle()
 
     ilanlar = {}
+
     for ilan in eski_ilanlar:
         key = ilan_kimligi(ilan)
         ilanlar[key] = ilan
@@ -296,7 +327,7 @@ def main():
 
     tum_ilanlar = list(ilanlar.values())
 
-    # Öncelikle en yeni ilanları göster
+    # En yeni ilanları göster
     tum_ilanlar.sort(
         key=lambda x: x.get("date", ""),
         reverse=True
