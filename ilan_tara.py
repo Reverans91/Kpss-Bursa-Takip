@@ -311,6 +311,7 @@ def main():
     ilanlar = {}
 
     for ilan in eski_ilanlar:
+        if tarihi_guncel_mi(ilan):
         key = ilan_kimligi(ilan)
         ilanlar[key] = ilan
 
