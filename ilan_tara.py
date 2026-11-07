@@ -8,7 +8,26 @@ from email.utils import parsedate_to_datetime
 from urllib.parse import quote
 
 DOSYA = "ilanlar.json"
+ILAN_MAX_YAS_GUN = 30
 
+
+def yayin_tarihi(ilan):
+    try:
+        dt = parsedate_to_datetime(ilan.get("date", ""))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except (TypeError, ValueError, OverflowError):
+        return None
+
+
+def tarihi_guncel_mi(ilan):
+    dt = yayin_tarihi(ilan)
+
+    if dt is None:
+        return True
+
+    return datetime.now(timezone.utc) - dt <= timedelta(days=ILAN_MAX_YAS_GUN)
 # Aday profili
 PROFILE = {
     "city": "Bursa",
