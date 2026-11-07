@@ -10,39 +10,57 @@ from urllib.parse import quote
 
 DOSYA = "ilanlar.json"
 
-# Resmî kurum ve başvuru kaynakları
+# Resmi kurum ve kamu personel ilan kaynakları
 RESMI_KAYNAKLAR = [
     {
         "name": "Kariyer Kapısı",
-        "url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
+        "url": "https://kariyerkapisi.gov.tr/",
+        "type": "resmi"
     },
     {
         "name": "ÖSYM",
-        "url": "https://www.osym.gov.tr/"
+        "url": "https://www.osym.gov.tr/",
+        "type": "resmi"
     },
     {
         "name": "İŞKUR",
-        "url": "https://www.iskur.gov.tr/"
+        "url": "https://www.iskur.gov.tr/",
+        "type": "resmi"
     },
     {
-        "name": "Resmî Gazete",
-        "url": "https://www.resmigazete.gov.tr/"
+        "name": "Resmi Gazete",
+        "url": "https://www.resmigazete.gov.tr/",
+        "type": "resmi"
     },
     {
         "name": "Bursa Büyükşehir Belediyesi",
-        "url": "https://www.bursa.bel.tr/"
+        "url": "https://www.bursa.bel.tr/",
+        "type": "yerel"
     },
     {
         "name": "Bursa Uludağ Üniversitesi",
-        "url": "https://www.uludag.edu.tr/"
+        "url": "https://www.uludag.edu.tr/",
+        "type": "yerel"
     },
     {
         "name": "Bursa Teknik Üniversitesi",
-        "url": "https://www.btu.edu.tr/"
+        "url": "https://www.btu.edu.tr/",
+        "type": "yerel"
     },
     {
-        "name": "Bursa İş Ofisi",
-        "url": "https://bursaisofisi.bursa.bel.tr/Home/ilanarama"
+        "name": "Bursa Valiliği",
+        "url": "https://www.bursa.gov.tr/",
+        "type": "yerel"
+    },
+    {
+        "name": "Bursa İl Sağlık Müdürlüğü",
+        "url": "https://bursaism.saglik.gov.tr/",
+        "type": "yerel"
+    },
+    {
+        "name": "Bursa İl Milli Eğitim Müdürlüğü",
+        "url": "https://bursa.meb.gov.tr/",
+        "type": "yerel"
     }
 ]
 
