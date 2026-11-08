@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-08T12:33:10.172320+00:00",
+  "updated_at": "2026-11-08T18:28:44.365398+00:00",
   "source": "Google News RSS",
-  "total_jobs": 286,
+  "total_jobs": 284,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -4694,48 +4694,6 @@
       "summary": "Mühendislik Fakültesinde 2026-2027 Akademik Yılı Sektör Temsilcilerinin Verdiği Açılış Dersleriyle Başladı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.796219+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "2026-2027 Eğitim-Öğretim Yılı Güz Dönemi Taslak Ara Sınav Programı - Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "source": "Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPclB0emhJcGpBMUt2OXhzOHFPM1oySjVvampYeWRvWEE1MmNzX19aSUZ6T09qcHNzempyOVBpYU9wVWpPUXA5R0pDNGVYekpOZlAyeVk0WTh5Z1pHbTJWczZpODRiaUR5cTZPWTRfMWpQR214UHoxS0c4ZlBCR2c4M1BXeGsyVFU5WTE3T0ktSERlV1JURUZ3eFRwWGpuT2ZmdVVwUVRjaDVTVWY0QmNaSU12M29nRGVuejRXNlFiYndlaUhrUHhhdkQzNmI4X2hfV3dEQUJEbFRQbk1zY1duYmdOd2o0RVZkdXl2SUhoOUpyaHNJbTBLNlBB?oc=5",
-      "date": "Fri, 09 Oct 2026 14:25:11 GMT",
-      "summary": "2026-2027 Eğitim-Öğretim Yılı Güz Dönemi Taslak Ara Sınav Programı &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.166099+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNE1OVVR4WEpGSHVmcGFNWndweWQxaTBsQmFkd1hZbXFzRUVyOFlDOHE4aUI2dmVrWGFOdlIwMDN1QllwckZOSklRQmpaTzZEX1hyRTZ2OHMyTnlLdUdIem1NV2dJQjBINnc?oc=5",
-      "date": "Fri, 09 Oct 2026 12:46:49 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373338+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
