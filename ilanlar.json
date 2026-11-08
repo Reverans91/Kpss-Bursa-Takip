@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-08T06:43:27.945108+00:00",
+  "updated_at": "2026-11-08T12:33:10.172320+00:00",
   "source": "Google News RSS",
-  "total_jobs": 293,
+  "total_jobs": 286,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -4736,127 +4736,6 @@
       "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
       "search_query": "site:bursa.bel.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.373338+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "2026 Güz Dönemi Meslek Yüksekokulları Bologna Süreci I. Değerlendirme Toplantısı Gerçekleştirildi - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0lMZHpFTlFQcUZiRk9pdDRVUndEcjQ3T1V4NjdyRjlMUjlvUjBUc0dDZjJ4TWJhUWNkamRVWng5eUpiNnA0MEUwWmVZZ25fTjVUOU5FZThMelhwTWVGWE1EN1RyclpRRmowRG1tNWZRZ1FxangyVVAwZmlLOWdRUFFHMG5YS2dnUkgtRzhlWlFJWEdVaC13Xy1JR2ZsV1M4N2ppMmswZU92cFJrdFFlN21YcGdHbzlSaEpFUV9UTEVTVDItNmdxcWdFdTMzUlhz?oc=5",
-      "date": "Fri, 09 Oct 2026 11:44:06 GMT",
-      "summary": "2026 Güz Dönemi Meslek Yüksekokulları Bologna Süreci I. Değerlendirme Toplantısı Gerçekleştirildi &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796466+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "KPSS 2026/2 MERKEZİ ATAMA TAKVİMİ | ÖSYM merkezi atama kılavuzu yayımlandı mı? Lisans, ön lisans ve lise mezunu memur alımı ne zaman? - Gazete Vatan",
-      "source": "Gazete Vatan",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTVlkejRlSDFtVnZkVkhzNVRuME5JQmpjajl6Yzc3b0dkR1A3QjVzQWY4WVhWYjEtbDR5clRWZHBIb3dYY01UaldlSEFxY2xrTzNSR1B1SzVscVJrNmlPaktZZm1GR3VQT1ktTDNEZEpTUnpoenJDbUVBWVZ0dVBPd2VXT3NNMDlCY09DVUhJNWxhNkNndHU1RW9SQ3o4OWJudzJwSmZfNmZ5SDY2OHdmQWZzbkdrdW9FbDRzVnpTbE5OdFRfTktERTZTY056dS1GMWZmSGdYekhBMlpkVlE2cUU5dmY5bDBKQW1wTG10NV81Z3VITnNEc2l2eWQwN0VZ?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa ön lisans personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNTVlkejRlSDFtVnZkVkhzNVRuME5JQmpjajl6Yzc3b0dkR1A3QjVzQWY4WVhWYjEtbDR5clRWZHBIb3dYY01UaldlSEFxY2xrTzNSR1B1SzVscVJrNmlPaktZZm1GR3VQT1ktTDNEZEpTUnpoenJDbUVBWVZ0dVBPd2VXT3NNMDlCY09DVUhJNWxhNkNndHU1RW9SQ3o4OWJudzJwSmZfNmZ5SDY2OHdmQWZzbkdrdW9FbDRzVnpTbE5OdFRfTktERTZTY056dS1GMWZmSGdYekhBMlpkVlE2cUU5dmY5bDBKQW1wTG10NV81Z3VITnNEc2l2eWQwN0VZ?oc=5\" target=\"_blank\">KPSS 2026/2 MERKEZİ ATAMA TAKVİMİ | ÖSYM merkezi atama kılavuzu yayımlandı mı? Lisans, ön lisans ve lise mezunu memur alımı ne zaman?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gazete Vatan</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS, yaş, mezuniyet veya sertifika şartı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "İŞKUR duyurdu: KPSS şartı olmadan 47 ilde 3 bin 500 işçi alınacak! - Pusula Haber",
-      "source": "Pusula Haber",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGI1cXJHQTdieTZlWkd5WS13Z280QzZicW5SbkpaQ0RCa2JyOEpFS2c0LVJNeTJUNkd3Yk1sUHlCZmY3VXRPQ1Myd2VXNENGUTgyamZxbGxFVlVVWG9lU3pTdFZvWWdiaDRGZTJBVTBQNzAzSmU4ajNvRnJUT3hGREh5bmN4Z1hEWkVfNWR3T3NFOWRLQ2tGcEJTME5xMFRObTVhdkJOQVllZVFF?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa kamu işçi alımı İŞKUR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGI1cXJHQTdieTZlWkd5WS13Z280QzZicW5SbkpaQ0RCa2JyOEpFS2c0LVJNeTJUNkd3Yk1sUHlCZmY3VXRPQ1Myd2VXNENGUTgyamZxbGxFVlVVWG9lU3pTdFZvWWdiaDRGZTJBVTBQNzAzSmU4ajNvRnJUT3hGREh5bmN4Z1hEWkVfNWR3T3NFOWRLQ2tGcEJTME5xMFRObTVhdkJOQVllZVFF?oc=5\" target=\"_blank\">İŞKUR duyurdu: KPSS şartı olmadan 47 ilde 3 bin 500 işçi alınacak!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pusula Haber</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Belediyelerde KPSS Şartsız Personel Alımı: 47 İlde Binlerce Kişiye İstihdam Fırsatı - Yozgat Çamlık Gazetesi",
-      "source": "Yozgat Çamlık Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXREWjFCcEdHeDlVUEtFSGJ4dkpfU1lkQkpWRHllNWJBNVdneGxvQzdTNTdTTklsXzh6b3o4UkVGemlNeUFDN19BNXJZU1FFcldjZlZDR0FuVlUxVmFCd2dPMk16bEs3ckJTMFZrZlpnVEdmWTRteG4wUEl0RERHX3RONk5HOHQ3NmdFMXdYbFdIb3JLVXphSUtpMWFaSE9nZkNXeFBVaEJhOUExT2czSWdtSFJpTkk?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa kamu işçi alımı İŞKUR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXREWjFCcEdHeDlVUEtFSGJ4dkpfU1lkQkpWRHllNWJBNVdneGxvQzdTNTdTTklsXzh6b3o4UkVGemlNeUFDN19BNXJZU1FFcldjZlZDR0FuVlUxVmFCd2dPMk16bEs3ckJTMFZrZlpnVEdmWTRteG4wUEl0RERHX3RONk5HOHQ3NmdFMXdYbFdIb3JLVXphSUtpMWFaSE9nZkNXeFBVaEJhOUExT2czSWdtSFJpTkk?oc=5\" target=\"_blank\">Belediyelerde KPSS Şartsız Personel Alımı: 47 İlde Binlerce Kişiye İstihdam Fırsatı</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yozgat Çamlık Gazetesi</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Komisyonlar | İNŞAAT MÜHENDİSLİĞİ - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KczRTb185dTdFaDFQTHF2eThZeWFEeXh4T3ZIX2hrR0JHYU1ZOU40MFViZHdsZlotYjhfSzc4Zml3ejBnOUVCQW4xbk1iTUFWUFFGcnNsT1BmQQ?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Komisyonlar | İNŞAAT MÜHENDİSLİĞİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795330+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "7592 SAYILI KANUN'UN 14. MADDESI KAPSAMINDA ÖĞRENIM AFFI BAŞVURUSUNDA BULUNAN ÖĞRENCILERIN DERS KAYIT IŞLEMLERI HK. - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUm9tbVl3R1F6cHVDSnNxZXM0WXJWb0IxTVpKQm5XSmtENkVxeWhJVHk1ZmhIMDh5ODRtb3RwWTNsajMtelIyc0VrdWtYN2tkb3dRSzNGZ0dJWnVRZDQtRWlRVGNUY3BhSXF0eGtRR2l2M2FWX1FLTVFTNFF0RXY0VF9KRmVZWm4wZ044cXNiRWVLNXlueWRxQ3pIT0JuQUdOMDhLY2oxZXZ5YmE0Y2ZCdnJvWUR3VVQ1RWxWUC1ZaTJmd1dLbVhJelNFbE9lU2s?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "7592 SAYILI KANUN'UN 14. MADDESI KAPSAMINDA ÖĞRENIM AFFI BAŞVURUSUNDA BULUNAN ÖĞRENCILERIN DERS KAYIT IŞLEMLERI HK. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796174+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Aday Memur Temel Eğitim Sınavı Sonuçları (2026/7) - Bursa İl Sağlık Müdürlüğü",
-      "source": "Bursa İl Sağlık Müdürlüğü",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOU1KTmEyUC1OQWs3TlRLMVdib3F2Y3RFNURmYXlObnRKVmN4dEFUdVBtNUR5aE5kRlRsREVfTF9Hd1dFanBCSVhzNWgzQzJyc2kzMnpQcUl4aC03Q001cFpySGpWdnBtbnAwbk5RSDFUa19ybXVCNWRqOUIwZVlkWEN4UktXLWk2b2tFRkFGc3UyaVNPdHJV?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Aday Memur Temel Eğitim Sınavı Sonuçları (2026/7) &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
-      "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.745700+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
