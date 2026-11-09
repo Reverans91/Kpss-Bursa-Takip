@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-09T00:41:05.529796+00:00",
+  "updated_at": "2026-11-09T07:07:31.482834+00:00",
   "source": "Google News RSS",
-  "total_jobs": 284,
+  "total_jobs": 282,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -2910,39 +2910,6 @@
       "summary": "Bilgisayarsız Kodlama ile Bursa'yı Keşfet! &nbsp;&nbsp; Bursa İl Milli Eğitim Müdürlüğü",
       "search_query": "site:bursa.meb.gov.tr personel alımı",
       "first_seen": "2026-11-07T16:15:23.990046+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Belediyelere 2026 KPSS Puanı ile Memur ve Zabıta Memuru Alımları Başlıyor! İlan Listesi - İşin Olsa",
-      "source": "İşin Olsa",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVJIdjhkbTJZNXprdXlHbjlOQkhrbHY0QVFreTNjX25BTjZNMWpGVzJKN0R6QzFRWVlSalo3OV9RWHBNclFNYUUzRGNUVDVrc2pnZVVNQS03U21uRHhkU3NfNl9tX1R6YzFjMHUtZTI4azM2RlkwRXZLajhYR01IR2xNT0o4WVMzdWVaVUxTZ1JpenF0Zm1MT2l0QnVuZ0dMYll4dTZ4YWpsVEZlTmxkUnBB?oc=5",
-      "date": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa kamu personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVJIdjhkbTJZNXprdXlHbjlOQkhrbHY0QVFreTNjX25BTjZNMWpGVzJKN0R6QzFRWVlSalo3OV9RWHBNclFNYUUzRGNUVDVrc2pnZVVNQS03U21uRHhkU3NfNl9tX1R6YzFjMHUtZTI4azM2RlkwRXZLajhYR01IR2xNT0o4WVMzdWVaVUxTZ1JpenF0Zm1MT2l0QnVuZ0dMYll4dTZ4YWpsVEZlTmxkUnBB?oc=5\" target=\"_blank\">Belediyelere 2026 KPSS Puanı ile Memur ve Zabıta Memuru Alımları Başlıyor! İlan Listesi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">İşin Olsa</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Bursa İl Rehberi ile şehrin imkanları bir arada - Bursasporx.com",
-      "source": "Bursasporx.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xS1VTMlpIM1Z6TFkzSXBIM0wwOFFkRks5ZmR3aXROb1lqOXhBLVZHNS1JOE5wUXdhRmowLXhHMnFoeE9RdTJPcXdYWGxuUWxXaHVVcHloVkstcEhTTjYwa2hQRGlBaF9PenloUnpocGdYdDcwaVBEYVdJdmdmNk0?oc=5",
-      "date": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "summary": "Bursa İl Rehberi ile şehrin imkanları bir arada &nbsp;&nbsp; Bursasporx.com",
-      "search_query": "Bursa servis rehber personeli iş ilanı",
-      "first_seen": "2026-11-07T16:15:20.849941+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
