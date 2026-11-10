@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T06:51:11.949320+00:00",
+  "updated_at": "2026-11-10T12:50:07.729380+00:00",
   "source": "Google News RSS",
-  "total_jobs": 282,
+  "total_jobs": 281,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -2696,18 +2696,6 @@
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans şartı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "2026 KPSS Ön Lisans Sonuçları Ne Zaman Açıklanacak? ÖSYM Sonuç Tarihini Duyurdu! - Genç Gazete",
-      "source": "Genç Gazete",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0dDMXVHeVAxSXlWZjlyMHRIaTJmUGdDclNyU1lQaWpvWUNUTTc5aGFtdFRYOWF3T0I2ajhuaFRCdGFwRGJmNHV3TFdjRXJWaEk3OFR0OGlBWHc5eXQ5Nk1LOFZfMHRGVk1FMzhMdWlPQmVMYm5qVk5zNHhaNFFtRURpTjNGVmFhVkRNS3R1OExTeHBjaE5pRC1rR2Exclg3cUNVU04tMmU?oc=5",
-      "date": "Sun, 11 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa ön lisans personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0dDMXVHeVAxSXlWZjlyMHRIaTJmUGdDclNyU1lQaWpvWUNUTTc5aGFtdFRYOWF3T0I2ajhuaFRCdGFwRGJmNHV3TFdjRXJWaEk3OFR0OGlBWHc5eXQ5Nk1LOFZfMHRGVk1FMzhMdWlPQmVMYm5qVk5zNHhaNFFtRURpTjNGVmFhVkRNS3R1OExTeHBjaE5pRC1rR2Exclg3cUNVU04tMmU?oc=5\" target=\"_blank\">2026 KPSS Ön Lisans Sonuçları Ne Zaman Açıklanacak? ÖSYM Sonuç Tarihini Duyurdu!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Genç Gazete</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
       ]
     },
