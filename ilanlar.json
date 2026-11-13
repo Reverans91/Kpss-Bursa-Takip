@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T12:50:38.905558+00:00",
+  "updated_at": "2026-11-13T18:40:09.850631+00:00",
   "source": "Google News RSS",
-  "total_jobs": 247,
+  "total_jobs": 245,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -186,48 +186,6 @@
       "summary": "Mimari Restorasyon Programı Tanıtımı | İZNİK MYO &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.795394+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16ZWlMYjRhcWxiRUVzdTd1bFpZdGNYNXlOcXVfOWVCc1hTYXVWOTdwX2hIMGxEWkt5SjhiQmx6anpmY0dsb0tyNWVjSjhUWUdxaUVHNnRBODFRbUNCM3poa3JhTGkzS0ZJ?oc=5",
-      "date": "Wed, 14 Oct 2026 14:12:34 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373104+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UUWlPUmtNbDE5Qkp1N1RJcW9zSU1qb3VqaTFMdzhVYzdOWFdFeVZHR29Kb0dORkUyNWpjcEtrVWo0UVRKeUdGNmdMVU9vVnpha2FON2JQYXI5U3JVcjBqM0hDTk94X00zc1E?oc=5",
-      "date": "Wed, 14 Oct 2026 14:12:05 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372963+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
