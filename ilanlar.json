@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T18:30:36.357544+00:00",
+  "updated_at": "2026-11-16T00:56:17.606810+00:00",
   "source": "Google News RSS",
-  "total_jobs": 223,
+  "total_jobs": 220,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -2102,27 +2102,6 @@
       ]
     },
     {
-      "title": "Bilgisayarsız Kodlama ile Bursa'yı Keşfet! - Bursa İl Milli Eğitim Müdürlüğü",
-      "source": "Bursa İl Milli Eğitim Müdürlüğü",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBZ3pPMXJXUloweUxSeTZmMEplRXNCMjZjSTNyN2RucDFSTnB6SkJHS3pPYm1mQVdFWUpOTjRkQ0NZOU1qdzNCSE9OMXRUTlhXVnJrR1RHZDFXQjdHdkJ0LWJTWXI5QQ?oc=5",
-      "date": "Sat, 17 Oct 2026 00:49:13 GMT",
-      "summary": "Bilgisayarsız Kodlama ile Bursa'yı Keşfet! &nbsp;&nbsp; Bursa İl Milli Eğitim Müdürlüğü",
-      "search_query": "site:bursa.meb.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.990046+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
       "title": "BTSO’da Sektör Temsilcileri ile Bursa’nın Geleceği Üzerine Görüşmeler Yapıldı - Ajans04",
       "source": "Ajans04",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnkxU29fck96NHYxWjZWSVFJa0g1Nk9zbFd0TV82cnJLQTBFNjJyb0dXeVVZZ3hRTjF3STBfZ3dCNVVYY29KLUhJS0t6ZTZTWjZLaHNIU2h4dlg4MkJ0N2RKVkxCNjN6LU0tM29KNmhMNW1Cb0JzLUMwaVhSWjRLemYtZGlwSlRMcmFXclpEQ21EYWhFSHpBenRTUmVWYTRZUjNF?oc=5",
@@ -3467,48 +3446,6 @@
       "summary": "BUÜ SÖZLEŞMELİ PERSONEL (4/B) KADRO İLANI (2026/1) - YEDEK ÇAĞRISI (5.GRUP) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.795025+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "BURSA ULUDAĞ ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI SUNUCU ALIMI TEKNİK ŞARTNAMESİ 1. Amaç ve Kapsam 1.1. Ku - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRllxeTRuc2QwaklQZi13dmV3U2Y2bW5sR3QyTkltUVFPQjNvOGI1ZERYZzRHUE5CSUtab1VKTHA4cmVfTVFmYmdieVlqRHJ4SUtHdllZTWhCTVJGb2dYQ01vemlMS3dEUnlvc1JzSEN1SzdQclV3Q1lnTkpqNU9rbU9NVWs2YVBTTDhvTlM2Qy0xVHBWZlZRdXhzbFFxcC1xNUY3cS1pZktMemFhVjBmeWRHbzZ1RVBhMkl6N0lzYU90NFVMcWN4RDFfdzNHWDBkMWg2NWUzUjZRNG04TW9ZLUF3MkJkSmlkTUw0OQ?oc=5",
-      "date": "Fri, 16 Oct 2026 21:29:16 GMT",
-      "summary": "BURSA ULUDAĞ ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI SUNUCU ALIMI TEKNİK ŞARTNAMESİ 1. Amaç ve Kapsam 1.1. Ku &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795471+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Temizlik Malzemesi Alımı - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiS3hLMV9jczdyYU1RcXhPMHE4ZmNPcHJ0OXI4VTAzYkhGSTVxekRzS2tUV2Y3Si1KV0xsZGVHbnJ3NU9BNG9lQXp5U0UybndXbjU5b0lCdXFxVmlRV2Q5RHV6VTBUM3ZlWWhaQXJRcw?oc=5",
-      "date": "Fri, 16 Oct 2026 20:15:50 GMT",
-      "summary": "Temizlik Malzemesi Alımı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795088+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
