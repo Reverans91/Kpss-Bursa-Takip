@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19T06:58:12.246043+00:00",
+  "updated_at": "2026-11-19T12:58:10.895342+00:00",
   "source": "Google News RSS",
-  "total_jobs": 203,
+  "total_jobs": 199,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -608,81 +608,6 @@
       "summary": "BÜTÇE GİDERLERİNİN EKONOMİK SINIFLANDIRILMASI TABLOSU BÜTÇE GİDERLERİ TOPLAMI &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T15:44:19.158825+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUFlQMWM3bGRBdTFnQUQ5TXVUV3dXLXo4cUJfdkFtVFZoWVU0SWlweUhxZ3lnMDZMeHpReHJPYWVLTTBZYXNzeld6ejQ2ZG5XMk5ndUJEN1ItcWI0Nko4RGlkSG1qX3VxWUE?oc=5",
-      "date": "Tue, 20 Oct 2026 08:58:40 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373561+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "KPSS’siz ve 65 Puanla Kamuya 1026 Memur Alımı Başvurusu Başladı! - İşin Olsa",
-      "source": "İşin Olsa",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX05BQUZkWkl3clhxUi0zZklsX1NsVlNyUnlsQnRucVMyZ2l1Tl9kaUdscVB5WTNCa2l4aFE2MWNuSmZxVmE3bzdRZzdMV0ZCcFpVV01XVllWWE5xU1NXS0RkN2JjRFhoRllRaEFfc3h4bEs2ZndmQU5Sc2RYdDN6TmNaZkRCQVVkTGJoYy1FX29NZw?oc=5",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa memur alımı KPSS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPX05BQUZkWkl3clhxUi0zZklsX1NsVlNyUnlsQnRucVMyZ2l1Tl9kaUdscVB5WTNCa2l4aFE2MWNuSmZxVmE3bzdRZzdMV0ZCcFpVV01XVllWWE5xU1NXS0RkN2JjRFhoRllRaEFfc3h4bEs2ZndmQU5Sc2RYdDN6TmNaZkRCQVVkTGJoYy1FX29NZw?oc=5\" target=\"_blank\">KPSS’siz ve 65 Puanla Kamuya 1026 Memur Alımı Başvurusu Başladı!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">İşin Olsa</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Bursa'da 30 kadın için iş fırsatı! Deneyim şartı aranmıyor, üç ayda bir tam maaş ikramiye - Bursada Bugün",
-      "source": "Bursada Bugün",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOME0zS1cwRGd2STB2aXJhNVlBRmp2TWhoSGdEa2pzSHRIdE9OelVweXg1OXpibTN5cEJ5aWZjOUdQbjFCQkc3RmplTzBEQVAzM3VGU0RwLVhPUklJSHpoaHF1NU1ZS3M0VGlUcFFUUlltdXdSR2tiMjV5VWltSTR5RHRrcGdsZGVOMFYybkxwRERKTkZNZmR2RjBpQVhnS1Z1VkRvSEpVX0lGMkd0cTRSZTRzS0tlMm9jLTFMZEZiOTB3amV6bGhwYTdiZ3V0SDdV0gHTAUFVX3lxTE9tcTJXemdtNkN4MjNuR3V1QUdhcTdVYUlKV3Bad0NIVURfMGc5UG9PQkhSRk51OXFKckdTa2hxdGFFUENSUHBEa3Q1dDVOT3BKTnNQTkJnRjdaQlFDTWVwWm5BTDRSX0xoRDg5cHB0RWVabXMxZ1VReFVpU1pnY3RDQTdsVUlsVXA5RVJsQ2ZvY2pLQ005Vk1iYXB5bS1paHhrT2RleHNjby1qTHdHMDItUWhlRUZQRGFFVDM0NGZod0oxMVZXSVdydkZkWGdZYllRTDQ?oc=5",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "Bursa'da 30 kadın için iş fırsatı! Deneyim şartı aranmıyor, üç ayda bir tam maaş ikramiye &nbsp;&nbsp; Bursada Bugün",
-      "search_query": "Bursa belediye personel alımı",
-      "first_seen": "2026-11-07T16:15:17.287830+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ SINAVI BAŞVURU KILAVUZU - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTW94eGVKNVpVdWN0NVF6OWs4a3hpUzg5eWZXN1RHTFoxUUY1RUpHMlN2OUJMMjVfb3NzdzJodWh0ZW5Va0dqSzN0UGpNa2Y5dWlzLUt4Qm1KMWhnZERkcGlxeWJfNk96LVdQZnlfckRyU0VYYkNOc2Z2cVlsdm9EVzVLWk1aX0pkQ3FUalFEaEd6eV9BWVFz?oc=5",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ SINAVI BAŞVURU KILAVUZU &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795429+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
