@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T06:57:47.831847+00:00",
+  "updated_at": "2026-11-20T12:53:27.704596+00:00",
   "source": "Google News RSS",
-  "total_jobs": 199,
+  "total_jobs": 195,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -111,81 +111,6 @@
       "summary": "29 Ekim Cumhuriyet Bayramımız Kutlu Olsun. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.796502+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "KYK Bursunda 8 Gruba Öncelik! Kredi Sonradan Bursa Dönüşebilir mi? - İşin Olsa",
-      "source": "İşin Olsa",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ21VdElrOElkQU1uUG5abmxrbUI5cUFzUmlJWk1ydWJzZmVXemtkYVVtdE1iQkczekR6Z3dqMG5vdDcyX0cxYkgtRVNzYUc3djBCeHpmYWFzYnV5MG5YTHJESU1wUlpzQkdmVWE0ODdPZEg1Mi1jUmVyMktBTnYxam9Kd3k4UUVLenB2T1U1Q3FzblJF?oc=5",
-      "date": "Wed, 21 Oct 2026 09:05:50 GMT",
-      "summary": "KYK Bursunda 8 Gruba Öncelik! Kredi Sonradan Bursa Dönüşebilir mi? &nbsp;&nbsp; İşin Olsa",
-      "search_query": "Bursa kamu şoför alımı B ehliyet",
-      "first_seen": "2026-11-07T16:15:19.855315+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Özel Bursa Şefkat Yaşlı Bakım ve Huzurevi Hizm. San.Tic.A.Ş. - Bursa İş Ofisi",
-      "source": "Bursa İş Ofisi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFT01JVGhmWGJlTGZteXNTRm9NV1FQVDJVak83TG9GcEZZRFhhRkxMRi0wNm5iQVFmX1hBTlo2WWd3NjFmU3ZNR2xSbWpOZDBFZkdsaVR0MDN2Tk1CVGRNWlgtcDFXRFh6cXc?oc=5",
-      "date": "Wed, 21 Oct 2026 08:19:58 GMT",
-      "summary": "Özel Bursa Şefkat Yaşlı Bakım ve Huzurevi Hizm. San.Tic.A.Ş. &nbsp;&nbsp; Bursa İş Ofisi",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372997+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "KPSS şartsız hastane personel alımı başladı mı? İŞKUR başvuru şartları ve kadrolar 2026 | Özgün Haberleri - GZT",
-      "source": "GZT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTFsRmF0TVZfS0tOOG1LNVBqbnc3bG1OcnRkUjAxdm5kTWFWOUZxWEtRc2xPMG5jOWgzUHZCUVRHWllIX3dwZWJQNUs5NEtSQlNDUFV3Y0FmN0NLdm5wU081c1RRT1plN2l5dUplbHBTSXduMmN1X3A2S1ZITVJWeVRnU01NcmpIN2xuQ0xqSlRPbUpuSVFsVmxFdTVnaTJ2NDRkdVduYy1zNTd4STlJS2pBUGJBTjdDcHpwVXZJX04?oc=5",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa kamu personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTFsRmF0TVZfS0tOOG1LNVBqbnc3bG1OcnRkUjAxdm5kTWFWOUZxWEtRc2xPMG5jOWgzUHZCUVRHWllIX3dwZWJQNUs5NEtSQlNDUFV3Y0FmN0NLdm5wU081c1RRT1plN2l5dUplbHBTSXduMmN1X3A2S1ZITVJWeVRnU01NcmpIN2xuQ0xqSlRPbUpuSVFsVmxFdTVnaTJ2NDRkdVduYy1zNTd4STlJS2pBUGJBTjdDcHpwVXZJX04?oc=5\" target=\"_blank\">KPSS şartsız hastane personel alımı başladı mı? İŞKUR başvuru şartları ve kadrolar 2026 | Özgün Haberleri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GZT</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Mimari Restorasyon Programı Tanıtımı | İZNİK MYO - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRXdLNFNOVjg2SWtHUzNVZGRGWlR1M3JibzlYRTdyLVZ4SUhQMll5eWtMM3dENzBBS1NIS1A1SU43Rk8xOXZMcHdzdnRlQXVjUWQtRVUtbjE4NktZOE54eWhXS3Q1RnlHYlRTSWFMa2Y4YWtUMlIxVm5YSmhxUQ?oc=5",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "Mimari Restorasyon Programı Tanıtımı | İZNİK MYO &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795394+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
