@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T12:41:27.055447+00:00",
+  "updated_at": "2026-11-22T18:34:45.602192+00:00",
   "source": "Google News RSS",
-  "total_jobs": 173,
+  "total_jobs": 170,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -2570,69 +2570,6 @@
       "match_status": "Şartları kontrol et",
       "warnings": [
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Mezun Anketleri Hakkında Duyuru - Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "source": "Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFM4SU5Za2FjYmIwOThwMENuOU56U0x4YmFfZzdSaFdxazdMdTdKdGs0SzB0cjRCMzNBQ2pXbk9NRGNOUnNNajg1cDlYU19VY2dkMnk1RGV4Zm5NSWo1XzNwWm41MW9hYlJyLVBUZWJLLThFc2RIV2tXc1NsMnhoaW50bXdBcS1xX09ra1RuWFd5UjQ?oc=5",
-      "date": "Fri, 23 Oct 2026 18:17:01 GMT",
-      "summary": "Mezun Anketleri Hakkında Duyuru &nbsp;&nbsp; Bursa Teknik Üniversitesi | Mühendislik ve Doğa Bilimleri Fakültesi",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.166015+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Kent Tarihi, Tanıtım Ve Turizm Dairesi Başkanlığı - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaDd5OThjUFhoUm83Rnc2UUhfdkRQVVJTSFlyYTVRanU1SDEzcEZ0bmRGdnpCdjhWZXJlbFlmTU5VQkVTdkQ3SmFCRjFndnB3OEJaZ2RYZ2RlR0FYZzJ5b3FEWHdHczZMS1lqMFBzcEVTblYtT2hOek14aXZoLTIyN3FuZV9zUQ?oc=5",
-      "date": "Fri, 23 Oct 2026 14:57:43 GMT",
-      "summary": "Kent Tarihi, Tanıtım Ve Turizm Dairesi Başkanlığı &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373704+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Yol Yapım Şube Müdürlüğü - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Q2lCOWNJRF9oWjE2NENXRG1VRlUtcFRwMUJVRnhoUnVSV0RaYzZ5V01FdlFQWGhVMjBBSTZzcGdxOTdPVTRXWjdmVWZDMVpnRDA5SDZoeXlvYnpkdjlHRXR2WWZxdw?oc=5",
-      "date": "Fri, 23 Oct 2026 14:55:56 GMT",
-      "summary": "Yol Yapım Şube Müdürlüğü &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373672+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
       ]
     },
     {
