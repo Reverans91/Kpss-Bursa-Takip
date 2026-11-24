@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T06:58:04.030378+00:00",
+  "updated_at": "2026-11-24T12:58:39.303680+00:00",
   "source": "Google News RSS",
-  "total_jobs": 168,
+  "total_jobs": 165,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -1492,62 +1492,6 @@
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans şartı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Okul gezileri öncesi Bursa’dan uyarı... Acenta ve rehberi mutlaka kontrol edin - Ajans04",
-      "source": "Ajans04",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWVyUzVTREdiM05OS3V5Vl9qVHkzSlRyVEl6Y05LdUgxU2lXQ2YwNW41UVVVSVVrQURzdmF1VnRJRUg0elMyb2JuRGEwdmwwdk1pMDBfcTZMZVBZaWVtTk1IQ0YzUkhMSlBNWWMtVlBJbng1RFNWNk9Ld3NSc3pFVzBVdTYxTmRRRkhKQWlfT05oSHVKMC1oOE1EWTVGaVk3?oc=5",
-      "date": "Sun, 25 Oct 2026 09:03:25 GMT",
-      "summary": "Okul gezileri öncesi Bursa’dan uyarı... Acenta ve rehberi mutlaka kontrol edin &nbsp;&nbsp; Ajans04",
-      "search_query": "Bursa servis rehber personeli iş ilanı",
-      "first_seen": "2026-11-07T16:15:20.850039+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "KPSS Ortaöğretim başladı - Olay Gazetesi Bursa - Olay Gazetesi Bursa",
-      "source": "Olay Gazetesi Bursa",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EUGVKajB1SHhKV0ZkeHExREloSkxOYWhpY013aHNKQ2FzQW81RUZoY2NIM20yLVFTVWRyV1BZMW5Kcks5dzlWVV9mRV9sRDBkTURkS1hCTEROQlB6TVg0bEUwOURtMGxWRnfSAXJBVV95cUxNTHV5VUxtNWhtYWo2NTlLOHJwUEs0ZUVvbDNnY2pMUTUtYVFORE4zaFdxNU1nVE1mV2c1aXJYZWN6RW5XZmhWaGRyZGUwOUlZNTM1VVIwTURYRWFzdkl1OVVHajhEeUx4N05aRlBjLVgzblE?oc=5",
-      "date": "Sun, 25 Oct 2026 07:00:00 GMT",
-      "summary": "KPSS Ortaöğretim başladı - Olay Gazetesi Bursa &nbsp;&nbsp; Olay Gazetesi Bursa",
-      "search_query": "Bursa kamu personel alımı",
-      "first_seen": "2026-11-07T16:15:15.866039+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Hangi kurumlar KPSS ortaöğretim puanıyla alım yapıyor? KPSS P94 kadroları - Yeni Şafak",
-      "source": "Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONVV4X3N3d2ZQc3dIVlNLOFQ1QmJrOHpsX1dhYXY1VGVvNTF3TXc2akFDcVpjQ05kN2NLQXZ2emZKWVJsTTd3VTZudi1FcVpjQ0ozY0tmYmZjak5nUjBVWmFhUEx0UHVZNWMxa0Q0MGxoLV9sMUwyVTVMZ0VTLUdfTXM1VXFteU8wdy1PZWRsNUdHdjBTUWlqdGpsMjJrWmtoLUd4WGZTY3IzUk45V0xFWlN0SkwwbHBSa1FiYmdZMUVqa3psOU41RjRfZ2JYYmZneVY2dzZCTFNNS1FCRExLZ05pSnNXRzE4ekkydzl4bDFxRmlBUVFVbjl5VVVjdGNT?oc=5",
-      "date": "Sun, 25 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa memur alımı KPSS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxONVV4X3N3d2ZQc3dIVlNLOFQ1QmJrOHpsX1dhYXY1VGVvNTF3TXc2akFDcVpjQ05kN2NLQXZ2emZKWVJsTTd3VTZudi1FcVpjQ0ozY0tmYmZjak5nUjBVWmFhUEx0UHVZNWMxa0Q0MGxoLV9sMUwyVTVMZ0VTLUdfTXM1VXFteU8wdy1PZWRsNUdHdjBTUWlqdGpsMjJrWmtoLUd4WGZTY3IzUk45V0xFWlN0SkwwbHBSa1FiYmdZMUVqa3psOU41RjRfZ2JYYmZneVY2dzZCTFNNS1FCRExLZ05pSnNXRzE4ekkydzl4bDFxRmlBUVFVbjl5VVVjdGNT?oc=5\" target=\"_blank\">Hangi kurumlar KPSS ortaöğretim puanıyla alım yapıyor? KPSS P94 kadroları</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yeni Şafak</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans şartı kontrol edilmeli",
-        "KPSS, yaş, mezuniyet veya sertifika şartı kontrol edilmeli",
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
       ]
     },
