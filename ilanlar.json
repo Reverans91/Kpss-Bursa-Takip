@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T00:52:52.112128+00:00",
+  "updated_at": "2026-11-25T07:00:16.467183+00:00",
   "source": "Google News RSS",
-  "total_jobs": 165,
+  "total_jobs": 160,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -1955,96 +1955,6 @@
       "summary": "VİNİL AFİŞ VE PASPARTU ALIMI--- ACİL---(ORGAN BAĞIŞ HAFTASI) &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
       "search_query": "site:bursaism.saglik.gov.tr personel alımı",
       "first_seen": "2026-11-07T16:15:23.745523+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Şehir hastanelerinde KPSS'siz güvenlik, temizlik, hasta karşılama ve büro görevlisi alımı var mı, başvurular başladı mı? - Yeni Şafak",
-      "source": "Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNkVsRFpiMVEyVXctUU9fR0RRMWRqVm9FYnltUmVxSGZ0aWxsUnNkNkJIblJJOXhyTXYtV3VRR3J3UWtPRlVveEQ3SU1iZFFHbUhBQWZOcmFpOGlLSkhtRlJBS1hhTVBYYVRwdDEwdFJ3a3Z0UDFFbjRud19tMWw1aGZBRDVOTS1WR1o2V2prTlRrZVhDTnNnOVFlUDJBMUxUS01ZWHh0QjN4dlY2WGNUOVVKNHVmNGUwajZTTnF5ZExYN1ktOWdVb0pxb2ZNS0pqTG9JQjdCU0dyeVJ2M2J4a18zNXQ4YXhEMVI4Q1IxUm1oYkox?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa kamu personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNkVsRFpiMVEyVXctUU9fR0RRMWRqVm9FYnltUmVxSGZ0aWxsUnNkNkJIblJJOXhyTXYtV3VRR3J3UWtPRlVveEQ3SU1iZFFHbUhBQWZOcmFpOGlLSkhtRlJBS1hhTVBYYVRwdDEwdFJ3a3Z0UDFFbjRud19tMWw1aGZBRDVOTS1WR1o2V2prTlRrZVhDTnNnOVFlUDJBMUxUS01ZWHh0QjN4dlY2WGNUOVVKNHVmNGUwajZTTnF5ZExYN1ktOWdVb0pxb2ZNS0pqTG9JQjdCU0dyeVJ2M2J4a18zNXQ4YXhEMVI4Q1IxUm1oYkox?oc=5\" target=\"_blank\">Şehir hastanelerinde KPSS'siz güvenlik, temizlik, hasta karşılama ve büro görevlisi alımı var mı, başvurular başladı mı?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yeni Şafak</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans şartı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Bursa’nın UNESCO Dünya Miras Alanları ve Deprem - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEFuNG5hMzNkWVZNTjg4VFZwUjRMSWtpeVZhRHZBZjFDQ2o3NU5ZMW9TaHdfRGlLSzBvSkNrMklmYWZIZHVFVzFUdnRQUVpnMGRXVmNwR3YyNFdmUnlpOFVtTUVaTlJJaXh2X21yZVVyOExmZHRTUGpmQ3VIYUZhN0NGQW1PaEk?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "summary": "Bursa’nın UNESCO Dünya Miras Alanları ve Deprem &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "Bursa büro personeli alımı",
-      "first_seen": "2026-11-07T15:29:36.830600+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bakanlık 67 Şehirde 162 Devlet Personeli Alımı Başlatacak - kamupersonelialimi.com",
-      "source": "kamupersonelialimi.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQejFBR2NKdjVrNkk0OXRjRWZRTHctTHZrVUFHZGU4Z3FKMlBURXdoT3RIc3NyTE1xWjE5QXUxMC0xWWtVc0REYXVTUUg2QkNObzYwZEFrMzhXcVJiRkozT09DS1ZDcmJMODM2R0l2a2oxeUFEdkw5WVpwMG9TYlVyWHkzMlNDUUNFVHZUSjZsNnFoOV9sZnlUMG1wbkdZZDVPVVJOMG5n?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa KPSS 67 puan personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQejFBR2NKdjVrNkk0OXRjRWZRTHctTHZrVUFHZGU4Z3FKMlBURXdoT3RIc3NyTE1xWjE5QXUxMC0xWWtVc0REYXVTUUg2QkNObzYwZEFrMzhXcVJiRkozT09DS1ZDcmJMODM2R0l2a2oxeUFEdkw5WVpwMG9TYlVyWHkzMlNDUUNFVHZUSjZsNnFoOV9sZnlUMG1wbkdZZDVPVVJOMG5n?oc=5\" target=\"_blank\">Bakanlık 67 Şehirde 162 Devlet Personeli Alımı Başlatacak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kamupersonelialimi.com</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans şartı kontrol edilmeli",
-        "67 puan şartı/alt sınırı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "NARKOREHBER Gençlik Modülü - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVkU1ZmgtR3Y2Z1JSVTZ0UlQ3dkNqY0FONHBmN0psdHNaRzA3NGx0Tml1NUdWVlVFMFRUTGplT0VtbXVkYm5NWVp1ZGpwOGZrS3NJY1pDZ3hiQ09rTmNZUWM0QmJfZzljLWRHMGlSd25aZw?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "summary": "NARKOREHBER Gençlik Modülü &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796316+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Kahvaltı Organizasyonu - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUURuczRSRU56RXctR2tkMFpNR2hMWXFaXzhINzVWT2VnQ2w3WGlHemc5N0VWWlJ0TmZDVUxHQnRpamwzRDMzZHNvTUJJa0o1bUFPUG95MHR4dXRTTEpVclRQejJvRjBvN29lNw?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "summary": "Kahvaltı Organizasyonu &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796433+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
