@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T13:02:20.128121+00:00",
+  "updated_at": "2026-11-25T18:41:40.946285+00:00",
   "source": "Google News RSS",
-  "total_jobs": 160,
+  "total_jobs": 155,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -1850,111 +1850,6 @@
       "summary": "BURSA ORDUEVİ PERSONEL TAŞIMA İŞİ HİZMET ALIMI &nbsp;&nbsp; Bursavar",
       "search_query": "Bursa servis rehber personeli kamu alımı",
       "first_seen": "2026-11-07T16:15:21.150421+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Yangın Söndürme Tatbikatı - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRbTl0Z3Zkdk92SFhwZ01XbWxjYUV5VzRBek5YVUdMMndPNzF6cEh2QjREcE5tb2VjYW9Ycng0dzZ6dWtEMEZYYWFUZjd5akVOWFNzTGdvREZ1Y1ZZRVVhNnZTNXVkZFIwUmY5MFdaYzk?oc=5",
-      "date": "Mon, 26 Oct 2026 16:56:34 GMT",
-      "summary": "Yangın Söndürme Tatbikatı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796344+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "2026 YILI GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ YAZILI VE SÖZLÜ SINAV SONUCU BAŞARI LİSTELERİNİN İLANI - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaTNTN3diZXNFelhpWjB5dmJvaVdvM3dZZ3hNX3RvWXhtbUNLQ1FRYlJtSlRPdU0ta09XYVoyLW1iUnphbEQ4c0RvYnhPZHVGVVBJZUxhbnp5MFhDTEdjdnJaa0IwQW5YOUpXdjNURlh3QXB4dVpTbmxmT1RBX1Vfb2FjVWdCazBzNlpWcTA0VFZGVEtHUVlzTURGYjRaT29FSDRsaXljUElPcWxmRExXNllhbjdSRGJaZ0J1Uk1FUC15T05Xcmp6WndKdm5ld0k?oc=5",
-      "date": "Mon, 26 Oct 2026 15:59:20 GMT",
-      "summary": "2026 YILI GÖREVDE YÜKSELME VE ÜNVAN DEĞİŞİKLİĞİ YAZILI VE SÖZLÜ SINAV SONUCU BAŞARI LİSTELERİNİN İLANI &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372840+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "source": "BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2cDVUUGdTeXFnSUVnNmJNTlljSlFCY0ZVbEV5aTMtMlZYeDJPbUZYN0hXX3NGNEZOekNHbFpHTHFYaXgwTk9wU0VkWEVmaDhwRDdTc2tRWlR3OWhjd1UyQjF5bUtzd3BqX3c?oc=5",
-      "date": "Mon, 26 Oct 2026 14:51:57 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHIR BELEDIYESI",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373389+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "ÜRETİM OPERATÖRÜ İŞ İLANI - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWGpqMzFBVXozR1RKVVVwaHA2WUtpQUxNSkZWemNzQ3RhS2tfdFBFNDBCNFRtV0U3dFl3QUg5LUhFZXZ4SklISjZoU1RTb081VzU2MGp2ZlRhUzd0RldZSGdxaG9RYWd6Q1E?oc=5",
-      "date": "Mon, 26 Oct 2026 13:33:42 GMT",
-      "summary": "ÜRETİM OPERATÖRÜ İŞ İLANI &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.373206+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "VİNİL AFİŞ VE PASPARTU ALIMI--- ACİL---(ORGAN BAĞIŞ HAFTASI) - Bursa İl Sağlık Müdürlüğü",
-      "source": "Bursa İl Sağlık Müdürlüğü",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3Q1aVE5N1JiZWNVWkRDUmJoUXFJM2tlYnNuY00wVHZzRXdHNktZRF9qNW11VkZFLUJfR0tVSkpZTGFhbENocjFZMDN0c1BHQnZGZ010QUt5UjMwZk1mWm9ZUEV6RGtSdDlhYXItb1l1OHZNZnB6aXdvdTFWQmdqRUJ4SWZwM1oxdUZhTy1NTEtRWVJjdUs0NGJPdW94Qjg3a29SbUdmVQ?oc=5",
-      "date": "Mon, 26 Oct 2026 13:22:43 GMT",
-      "summary": "VİNİL AFİŞ VE PASPARTU ALIMI--- ACİL---(ORGAN BAĞIŞ HAFTASI) &nbsp;&nbsp; Bursa İl Sağlık Müdürlüğü",
-      "search_query": "site:bursaism.saglik.gov.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.745523+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
