@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T13:01:45.614350+00:00",
+  "updated_at": "2026-11-26T18:46:41.938910+00:00",
   "source": "Google News RSS",
-  "total_jobs": 149,
+  "total_jobs": 147,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -414,48 +414,6 @@
       "warnings": [
         "Ön lisans şartı kontrol edilmeli",
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "Yönetim Listeleri | HUKUK FAKÜLTESİ - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBteE1MYlI2TnM0b2w4TTBoQzFvYmp5VnpXSU1mSF9TUUJ5X0hhemJBMUJERkw2TlZXNEFNQnMxN29YR254TEpTcF8za19URkg1d0hoQlBMSzljdjNHcmh1QmdIZHBSaFEzYjBMSEFndG8?oc=5",
-      "date": "Tue, 27 Oct 2026 15:50:00 GMT",
-      "summary": "Yönetim Listeleri | HUKUK FAKÜLTESİ &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795689+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Önemli Duyuru (Staj Bürosu) - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fRlNFU3poY01FWnRYYVZVbjB5TXlSNHpOUHpIbEpkYmQyMXh0NGZpd2g3MUtXUTNOUFlUQzI1bURzN0ZWM2E2Z3hIYWI5NDE0ck1XQ0IxSkg4REgybHN2VGdXdmZoeWpGejZqcW54THFSUQ?oc=5",
-      "date": "Tue, 27 Oct 2026 14:18:50 GMT",
-      "summary": "Önemli Duyuru (Staj Bürosu) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795659+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
       ]
     },
     {
