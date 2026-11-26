@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T06:59:32.315790+00:00",
+  "updated_at": "2026-11-26T13:01:45.614350+00:00",
   "source": "Google News RSS",
-  "total_jobs": 154,
+  "total_jobs": 149,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -445,94 +445,6 @@
       "summary": "Önemli Duyuru (Staj Bürosu) &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.795659+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "99 Kalem Elektrik, Sıhhi Tesisat, Biyomedikal Sarf ve Demirbaş Malzeme Alımı - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnZBbjVRck5jSjZMbk5GOW5GZHpuTjJkSXFQUVZXQnVIRGZTaVA0d1JKWndwal9jdEowNGZoLW9ad21ic3hoSENjWE9xWGQ5a0hEWERVRmt1TW1saFA3RFVRTHFtSndlMWRCWjRYQU15OUV4b2dYTEl0dHIzOVh2ZFV2RmR2a0xVLTBLWWQ3UFVKdy1rMksxMDF4T0JvLWdwcXU4QU1ya1ltcjZkS1lhNTVR?oc=5",
-      "date": "Tue, 27 Oct 2026 12:40:06 GMT",
-      "summary": "99 Kalem Elektrik, Sıhhi Tesisat, Biyomedikal Sarf ve Demirbaş Malzeme Alımı &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.795158+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Bursa İş Ofisi - BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "source": "BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PN3hZN0laa2hscTRuaXhKUzV6MWdldUJ6allJSU9pSXU4Tkhka2lhaE00M2FTVktZNS1PTlhRMzVtcFlTQkk5RnpVclZSd3NLQXNOYUktaEIwY1JqQkU4TGlFZVBUOXowSUgzUnlwZ1I?oc=5",
-      "date": "Tue, 27 Oct 2026 07:55:09 GMT",
-      "summary": "Bursa İş Ofisi &nbsp;&nbsp; BURSA BÜYÜKŞEHİR BELEDİYESİ",
-      "search_query": "site:bursa.bel.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.372803+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Kurum dışı kamu işçisi: 33 belediye KPSS'siz 1700 personel alımı yapacak - Kamu Son Dakika Haberleri",
-      "source": "Kamu Son Dakika Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjVlZ01qdVBGdi1TTFl1aWw5UGp5QVExS3FKd3J2ZGk5cW5xTkF1R1FVMHZLWjdHRXJvZURLdnRWVnhBb08yTG8wRWxTR2c3UG5vVGo3S3FsRGxOYXItbjVDVjMwMjlKUUhsU1BGcTFOeTFBSVF0WjhrUlhSUERuNy01SHBWNDB1bnU0ekVfRUR1akRUMmFWZ1lwMEdaUk96N1JNYUxXS0RnQVBNN0EtWDRSNzRpamM?oc=5",
-      "date": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa kamu işçi alımı İŞKUR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjVlZ01qdVBGdi1TTFl1aWw5UGp5QVExS3FKd3J2ZGk5cW5xTkF1R1FVMHZLWjdHRXJvZURLdnRWVnhBb08yTG8wRWxTR2c3UG5vVGo3S3FsRGxOYXItbjVDVjMwMjlKUUhsU1BGcTFOeTFBSVF0WjhrUlhSUERuNy01SHBWNDB1bnU0ekVfRUR1akRUMmFWZ1lwMEdaUk96N1JNYUxXS0RnQVBNN0EtWDRSNzRpamM?oc=5\" target=\"_blank\">Kurum dışı kamu işçisi: 33 belediye KPSS'siz 1700 personel alımı yapacak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kamu Son Dakika Haberleri</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "KPSS ortaöğretim kaç net kaç puan getirir? KPSS'de kaç net kaç puan getirir, 20-25-30-35-40-45-50-55-60-65-70 nete kaç puan gelir? KPSS puan hesaplaması - Yeni Şafak",
-      "source": "Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZXpyVW5mRk5RUlRoTU53bG5vbGpkY2E5Tk9KQ0R2NkpWNnNlbDVhUDNOemg1VUtOS0Y4NmlRYlN2TkpOV2xKVTk2SEpPOXZ1VFJadFFTZ3ZUM2VLbV9pUkZSUnoybVZqOC16Qm9xQVVmbS1DdW1JRllyaXRMck5tSjV4NGh2RkN3NldnbG5LOFRHWXd0WFdhUXVZVlJrRnRETFZETVViR2FlbHd0d0hWZDVwcXRvclcwYVUxLXA3R0lqUzNCbjl3M0k4WGFJMTBobW94cGcxemVick1QTGtHUVFjQ3ZhRlQtcXhHVlVVT3BxYjVYd0duaEpVSTFvUXJBQ2oyaDVMVVNBckU2ZkFRWHFfREstR3lTMnNYQmQ0Vlo?oc=5",
-      "date": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa KPSS 67 puan personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQZXpyVW5mRk5RUlRoTU53bG5vbGpkY2E5Tk9KQ0R2NkpWNnNlbDVhUDNOemg1VUtOS0Y4NmlRYlN2TkpOV2xKVTk2SEpPOXZ1VFJadFFTZ3ZUM2VLbV9pUkZSUnoybVZqOC16Qm9xQVVmbS1DdW1JRllyaXRMck5tSjV4NGh2RkN3NldnbG5LOFRHWXd0WFdhUXVZVlJrRnRETFZETVViR2FlbHd0d0hWZDVwcXRvclcwYVUxLXA3R0lqUzNCbjl3M0k4WGFJMTBobW94cGcxemVick1QTGtHUVFjQ3ZhRlQtcXhHVlVVT3BxYjVYd0duaEpVSTFvUXJBQ2oyaDVMVVNBckU2ZkFRWHFfREstR3lTMnNYQmQ0Vlo?oc=5\" target=\"_blank\">KPSS ortaöğretim kaç net kaç puan getirir? KPSS'de kaç net kaç puan getirir, 20-25-30-35-40-45-50-55-60-65-70 nete kaç puan gelir? KPSS puan hesaplaması</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yeni Şafak</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans şartı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "BÜTÇE GİDERLERİNİN EKONOMİK SINIFLANDIRILMASI TABLOSU BÜTÇE GİDERLERİ TOPLAMI - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY2RQNjByN3NFa2JCblRWYjE5SHlvLWRRYXd2MmhOcFpQRXYyeDJFY2ZaSk5sMTB5RFJJeXdlNE1Gbm5VYXI0ZDYwdU9aaTVHQmZXRVhucVJ0SmktUGhCZ3VzWXFlUWhIRWZIYWVUcGl4X1VnMU5kN01kYnJrbGpJb3VaaklVbGZ5M0RwVWFzLUhwdjhKVFNyZjVzV1ZhYXlmMmxBNXpJWmtNNnN0VEJZdnlqY3JFQW1YQ0VtVUdtNmROclhnZ2YwVTlwWkdvMVEzcXVqNXJZd2U1ZXVyWWVzV3NZOUJYVlNsWFJ0eEVwU08yMnpxeXVoMVZxYl9FOE1MTHpKRFNR?oc=5",
-      "date": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "summary": "BÜTÇE GİDERLERİNİN EKONOMİK SINIFLANDIRILMASI TABLOSU BÜTÇE GİDERLERİ TOPLAMI &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T15:44:19.158825+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
