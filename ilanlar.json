@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T18:41:40.946285+00:00",
+  "updated_at": "2026-11-26T00:52:41.571094+00:00",
   "source": "Google News RSS",
-  "total_jobs": 155,
+  "total_jobs": 154,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -1829,27 +1829,6 @@
       "summary": "Ehliyet almak isteyenlere kötü haber! Artık daha da zorlaşacak! &nbsp;&nbsp; Bursada Bugün",
       "search_query": "Bursa kamu şoför alımı B ehliyet",
       "first_seen": "2026-11-07T16:15:19.854956+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "BURSA ORDUEVİ PERSONEL TAŞIMA İŞİ HİZMET ALIMI - Bursavar",
-      "source": "Bursavar",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXE0WUtyQ05lZDI0UkFUbGpzdVFPaFplRktKdjd1UmI0djFsZ3d3dHlXeS1RVE9CS1BxVEIwMXExRk1KSUdjcG5BMXdkTVg0al9NcEJ5U2U2RlRXa2JqZmlhVTNtSURRaU9ZQjhzYlJpZzFYRjJTUkRmczVyWTI1MmRSN05kckREUVp3Vm9qONIBlAFBVV95cUxPcU80bGxRMjRGZVpZMWl2d0ZiRWUtMERTLWZhdkQzTjZKa055QVR4UkZFZUdxaThWSGJtV0RTQ0tvb3lzM0wtUzRwVGtCTWlzUDhUcm15U2NuYXVfN0E4R2hjRFIxaG1zMk1kc2lLR0lVZkdpUGVQdGNPWWg0RGZnZDR4T3g4dGxDQWlZdmh1bC1SUFBw?oc=5",
-      "date": "Mon, 26 Oct 2026 21:00:00 GMT",
-      "summary": "BURSA ORDUEVİ PERSONEL TAŞIMA İŞİ HİZMET ALIMI &nbsp;&nbsp; Bursavar",
-      "search_query": "Bursa servis rehber personeli kamu alımı",
-      "first_seen": "2026-11-07T16:15:21.150421+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
