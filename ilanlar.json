@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T00:56:36.044588+00:00",
+  "updated_at": "2026-11-27T07:01:34.586247+00:00",
   "source": "Google News RSS",
-  "total_jobs": 146,
+  "total_jobs": 144,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -78,39 +78,6 @@
       "summary": "Cumhuriyetimizin 103. yılı kutlu olsun! &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
       "search_query": "site:uludag.edu.tr personel alımı",
       "first_seen": "2026-11-07T16:15:22.796287+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "34 İlde 2350 İşçi İlanı! Belediye Şirketlerine KPSS’siz Vasıflı ve Vasıfsız Personel Alımı - İşin Olsa",
-      "source": "İşin Olsa",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSW1CcS1wWVFoTFJndHhqOFFIN0tLSUk2N2tRYUxnNzBiZ0JPMDVTQmJ3VUJmYVhiNnlNaXp0aXNWaTBGZW1lTmNGYzIzZEtOTDZNUzd6c0UweDU4MW9TTzdMQXJaa2kyVGpKbTZ4RFZEZUhQakVJS3hPb2tjeDU5ODJ2dlF3b0stSFhKbXJseTZwY1VKRWJNLU9TejdWX2pKbHk0aS1SSmpnNko1b2dBMVliMWw?oc=5",
-      "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "search_query": "Bursa memur alımı KPSS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSW1CcS1wWVFoTFJndHhqOFFIN0tLSUk2N2tRYUxnNzBiZ0JPMDVTQmJ3VUJmYVhiNnlNaXp0aXNWaTBGZW1lTmNGYzIzZEtOTDZNUzd6c0UweDU4MW9TTzdMQXJaa2kyVGpKbTZ4RFZEZUhQakVJS3hPb2tjeDU5ODJ2dlF3b0stSFhKbXJseTZwY1VKRWJNLU9TejdWX2pKbHk0aS1SSmpnNko1b2dBMVliMWw?oc=5\" target=\"_blank\">34 İlde 2350 İşçi İlanı! Belediye Şirketlerine KPSS’siz Vasıflı ve Vasıfsız Personel Alımı</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">İşin Olsa</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "29 Ekim Cumhuriyet Bayramımız Kutlu Olsun. - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDFRYkpxTVJxUDdKUVMxVzJuVjR0UG9meWtaSF9CemdINGliRnZfZ1BoSjc4NmltanlscUlQMVpPdkowekppWDZWXzFPeVpvYm1JWk1XT2kzODlra0dmSW5Gbm5XNTVBeXkxOVRsRTdQVDJtWklvS3ljY0dBZENkS3RFVGVNQQ?oc=5",
-      "date": "Wed, 28 Oct 2026 06:52:59 GMT",
-      "summary": "29 Ekim Cumhuriyet Bayramımız Kutlu Olsun. &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796502+00:00",
       "match_status": "Şartları kontrol et",
       "warnings": [
         "Ön lisans mezuniyet şartı kontrol edilmeli",
