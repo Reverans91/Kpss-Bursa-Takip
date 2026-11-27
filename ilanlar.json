@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T07:01:34.586247+00:00",
+  "updated_at": "2026-11-27T12:58:19.018728+00:00",
   "source": "Google News RSS",
-  "total_jobs": 144,
+  "total_jobs": 143,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -70,27 +70,6 @@
     ]
   },
   "jobs": [
-    {
-      "title": "Cumhuriyetimizin 103. yılı kutlu olsun! - Bursa Uludağ Üniversitesi",
-      "source": "Bursa Uludağ Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBMEFyQjFyVm1DNldrclE1WGl4SWxQWDhJVFIzWE5EODhqLWRSbWU2Q1o1X1BPVnZFZDZaSGQ4bzl1Y0tfaURuZXFhTTNKNXl1V2k2aDF3UUZMdmF5NUhuS01OVEpFMnNncGlzcEtCY2ZZd1JuR2RuajJuT18xdw?oc=5",
-      "date": "Wed, 28 Oct 2026 11:16:20 GMT",
-      "summary": "Cumhuriyetimizin 103. yılı kutlu olsun! &nbsp;&nbsp; Bursa Uludağ Üniversitesi",
-      "search_query": "site:uludag.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:22.796287+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
-      ]
-    },
     {
       "title": "Matlı Holding’den Dış Ticaret Programı Öğrencilerine CV Hazırlama ve Mülakat Teknikleri Semineri - Bursa Uludağ Üniversitesi",
       "source": "Bursa Uludağ Üniversitesi",
