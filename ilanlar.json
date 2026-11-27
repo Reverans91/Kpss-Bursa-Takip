@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T18:46:41.938910+00:00",
+  "updated_at": "2026-11-27T00:56:36.044588+00:00",
   "source": "Google News RSS",
-  "total_jobs": 147,
+  "total_jobs": 146,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -401,19 +401,6 @@
       ],
       "match_reasons": [
         "Bursa ifadesi bulundu"
-      ]
-    },
-    {
-      "title": "Fiat Doblo 3 Yıl Sonra Geri Döndü! Tofaş’ta 5 Model - İşin Olsa",
-      "source": "İşin Olsa",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenhMcExtdjZjMFNWQkFvbUQ2OTNiT0w3WjFYc0VZLVVzZlJ5akRnVDhGNDRucjZWVDlNU0stRzNQZjBxNG5EaE5kWVdobjJTZHNKR1ZSckRDa1hDVEp6ajlMd3U2UWZGc3cxMm5IUTNxVFFFX2RMaHpZcFBVVWlZTA?oc=5",
-      "date": "Tue, 27 Oct 2026 20:34:23 GMT",
-      "search_query": "Bursa sözleşmeli personel alımı",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPenhMcExtdjZjMFNWQkFvbUQ2OTNiT0w3WjFYc0VZLVVzZlJ5akRnVDhGNDRucjZWVDlNU0stRzNQZjBxNG5EaE5kWVdobjJTZHNKR1ZSckRDa1hDVEp6ajlMd3U2UWZGc3cxMm5IUTNxVFFFX2RMaHpZcFBVVWlZTA?oc=5\" target=\"_blank\">Fiat Doblo 3 Yıl Sonra Geri Döndü! Tofaş’ta 5 Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">İşin Olsa</font>",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans şartı kontrol edilmeli",
-        "KPSS P93 şartı ilanın metninde doğrulanmalı"
       ]
     },
     {
