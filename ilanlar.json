@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-28T00:52:57.686305+00:00",
+  "updated_at": "2026-11-28T06:55:38.302208+00:00",
   "source": "Google News RSS",
-  "total_jobs": 143,
+  "total_jobs": 142,
   "new_jobs": 0,
   "errors": [],
   "official_sources": [
@@ -734,27 +734,6 @@
       "match_status": "Şartları kontrol et",
       "warnings": [
         "KPSS P93 şartı ilanın metninde doğrulanmalı"
-      ]
-    },
-    {
-      "title": "- Bursa Teknik Üniversitesi",
-      "source": "Bursa Teknik Üniversitesi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYjcyNExyVEhYRnZ0SlJYSGFOVktzcVNfWlpmeWRHT05MUk4taElqNlVPVjlqRGVOVXpCNWNuV2Y2aUhkbzdrbWY5alFpakhWRkRzcXJVS3lfb0h2bDRnZXh4Sks3SVpGVmZSU0RUOXpxTXR0RmpRRmVBVVJMMVBfZWZubjRES19NckpCZGM0SzdzWDRoZ2VOTHVJbjhTa0xZcHFxRVVndWxHR25MN0FrUkotQk52Y3lKa1VkTk5GVnVtdEpTVkMxbU1fS2plMmtFX2c2XzctSFVTajVvbUJtM1NLVERwWk1qMlBwTHpNRFJlYXQxWFE?oc=5",
-      "date": "Thu, 29 Oct 2026 01:48:21 GMT",
-      "summary": "&nbsp;&nbsp; Bursa Teknik Üniversitesi",
-      "search_query": "site:btu.edu.tr personel alımı",
-      "first_seen": "2026-11-07T16:15:23.165576+00:00",
-      "match_status": "Şartları kontrol et",
-      "warnings": [
-        "Ön lisans mezuniyet şartı kontrol edilmeli",
-        "KPSS puan türü ilan metninden kontrol edilmeli",
-        "KPSS taban puanı ve 67 puanın yeterliliği kontrol edilmeli",
-        "Yaş sınırı 30-35 yaş aralığına göre kontrol edilmeli",
-        "Ehliyet şartı varsa B sınıfı olup olmadığı kontrol edilmeli",
-        "İlanın kabul ettiği bölümler/nitelik kodları kontrol edilmeli"
-      ],
-      "match_reasons": [
-        "Bursa ifadesi bulundu"
       ]
     },
     {
